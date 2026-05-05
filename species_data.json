@@ -1,0 +1,3434 @@
+[
+ {
+  "id": "hominino Sahelanthropus tchadensis",
+  "name": "Sahelanthropus tchadensis",
+  "short": "Sahelanthropus",
+  "discovered": 2001,
+  "where": "Chad",
+  "fact": "The oldest known hominin \u2014 its skull, nicknamed Touma\u00ef, hints at upright posture nearly 7 million years ago.",
+  "time_min": 6.70501319,
+  "time_max": 7.6994172,
+  "time_mean": 7.179310371719993,
+  "cranial_min": 0.1,
+  "cranial_max": 299.5,
+  "cranial_mean": 150.9,
+  "height_min": 80.0,
+  "height_max": 100.0,
+  "height_mean": 90.0,
+  "location": "Africa",
+  "zone": "central",
+  "country": "Republic of Chad",
+  "habitat": "mixed",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "low probability",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "conical",
+  "torus": "very protruding",
+  "prognathism": "high",
+  "foramen": "posterior",
+  "canine_size": "small",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 7.54004157,
+    "c": 256.37099,
+    "h": 93.3013
+   },
+   {
+    "t": 7.41245001,
+    "c": 50.66729,
+    "h": 88.61092
+   },
+   {
+    "t": 7.55162381,
+    "c": 177.81175,
+    "h": 91.91169
+   },
+   {
+    "t": 6.82198267,
+    "c": 60.07775,
+    "h": 98.2279
+   },
+   {
+    "t": 7.28064243,
+    "c": 45.60829,
+    "h": 97.60147
+   },
+   {
+    "t": 7.62873637,
+    "c": 288.72402,
+    "h": 92.2516
+   },
+   {
+    "t": 7.11971919,
+    "c": 260.32504,
+    "h": 88.57714
+   },
+   {
+    "t": 6.77208055,
+    "c": 297.7735,
+    "h": 96.27897
+   },
+   {
+    "t": 6.88514682,
+    "c": 210.45994,
+    "h": 88.896
+   },
+   {
+    "t": 7.62072532,
+    "c": 246.60945,
+    "h": 98.82778
+   },
+   {
+    "t": 7.56650128,
+    "c": 221.6763,
+    "h": 84.40958
+   },
+   {
+    "t": 7.63803597,
+    "c": 14.5762,
+    "h": 86.37325
+   },
+   {
+    "t": 7.52979592,
+    "c": 45.34562,
+    "h": 82.92482
+   },
+   {
+    "t": 7.67503435,
+    "c": 30.17426,
+    "h": 98.90712
+   },
+   {
+    "t": 7.10286656,
+    "c": 234.66293,
+    "h": 95.11173
+   },
+   {
+    "t": 7.25573419,
+    "c": 83.97057,
+    "h": 85.96779
+   },
+   {
+    "t": 6.73492739,
+    "c": 65.46018,
+    "h": 95.23609
+   },
+   {
+    "t": 7.51308545,
+    "c": 48.50139,
+    "h": 94.86667
+   },
+   {
+    "t": 6.81792113,
+    "c": 226.11371,
+    "h": 95.25608
+   },
+   {
+    "t": 6.85465202,
+    "c": 71.81075,
+    "h": 98.33468
+   }
+  ]
+ },
+ {
+  "id": "hominino Orrorin tugenencin",
+  "name": "Orrorin tugenensis",
+  "short": "Orrorin",
+  "discovered": 2000,
+  "where": "Kenya",
+  "fact": "Femur fragments suggest Orrorin walked upright while still climbing trees \u2014 a dual-purpose ape.",
+  "time_min": 5.70009507,
+  "time_max": 6.69800811,
+  "time_mean": 6.206883318099999,
+  "cranial_min": 0.3,
+  "cranial_max": 299.1,
+  "cranial_mean": 150.3,
+  "height_min": 110.0,
+  "height_max": 130.0,
+  "height_mean": 120.2,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "forest",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "low probability",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "conical",
+  "torus": "very protruding",
+  "prognathism": "high",
+  "foramen": "posterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 6.27143522,
+    "c": 217.80057,
+    "h": 121.35207
+   },
+   {
+    "t": 5.75395078,
+    "c": 296.99522,
+    "h": 122.75871
+   },
+   {
+    "t": 6.14313189,
+    "c": 2.99472,
+    "h": 112.41276
+   },
+   {
+    "t": 6.59729468,
+    "c": 28.25024,
+    "h": 121.94054
+   },
+   {
+    "t": 6.67165495,
+    "c": 273.6129,
+    "h": 125.44507
+   },
+   {
+    "t": 5.72662114,
+    "c": 264.50535,
+    "h": 120.32259
+   },
+   {
+    "t": 6.6526841,
+    "c": 215.43003,
+    "h": 113.21386
+   },
+   {
+    "t": 5.76499,
+    "c": 47.60799,
+    "h": 110.16879
+   },
+   {
+    "t": 5.99851989,
+    "c": 210.77934,
+    "h": 125.70419
+   },
+   {
+    "t": 6.55222035,
+    "c": 192.76871,
+    "h": 127.02365
+   },
+   {
+    "t": 5.84352865,
+    "c": 258.38473,
+    "h": 123.67119
+   },
+   {
+    "t": 6.05501244,
+    "c": 154.40067,
+    "h": 126.81176
+   },
+   {
+    "t": 6.37586592,
+    "c": 66.33051,
+    "h": 128.0944
+   },
+   {
+    "t": 6.57279843,
+    "c": 172.16116,
+    "h": 129.96551
+   },
+   {
+    "t": 5.935946,
+    "c": 65.76877,
+    "h": 112.66415
+   },
+   {
+    "t": 5.99015936,
+    "c": 116.63299,
+    "h": 118.48241
+   },
+   {
+    "t": 6.01199776,
+    "c": 24.13396,
+    "h": 122.18631
+   },
+   {
+    "t": 6.15702192,
+    "c": 238.16616,
+    "h": 125.58397
+   },
+   {
+    "t": 6.30182607,
+    "c": 214.49513,
+    "h": 127.83503
+   },
+   {
+    "t": 6.40938011,
+    "c": 141.45218,
+    "h": 112.94488
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Anamensis",
+  "name": "Australopithecus anamensis",
+  "short": "A. anamensis",
+  "discovered": 1995,
+  "where": "Kenya",
+  "fact": "The earliest known australopith, with a tibia clearly built for upright walking.",
+  "time_min": 3.90063883,
+  "time_max": 4.89929001,
+  "time_mean": 4.379866800179998,
+  "cranial_min": 200.1,
+  "cranial_max": 499.8,
+  "cranial_mean": 345.8,
+  "height_min": 110.0,
+  "height_max": 129.9,
+  "height_mean": 120.1,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "forest-gallery",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "high",
+  "foramen": "anterior",
+  "canine_size": "big",
+  "canine_shape": "incisiform",
+  "incisor": "big",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "mixed",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 4.52593467,
+    "c": 321.80913,
+    "h": 115.8887
+   },
+   {
+    "t": 3.95685783,
+    "c": 246.80958,
+    "h": 115.2788
+   },
+   {
+    "t": 4.2811882,
+    "c": 255.35969,
+    "h": 111.60154
+   },
+   {
+    "t": 4.48094154,
+    "c": 396.24089,
+    "h": 119.72859
+   },
+   {
+    "t": 4.02504238,
+    "c": 493.94048,
+    "h": 123.66
+   },
+   {
+    "t": 4.12458968,
+    "c": 439.63876,
+    "h": 111.9526
+   },
+   {
+    "t": 4.31109199,
+    "c": 441.73797,
+    "h": 123.48291
+   },
+   {
+    "t": 4.43961626,
+    "c": 230.64171,
+    "h": 127.01925
+   },
+   {
+    "t": 4.73638812,
+    "c": 364.87358,
+    "h": 116.74051
+   },
+   {
+    "t": 3.99911693,
+    "c": 249.42649,
+    "h": 129.74761
+   },
+   {
+    "t": 4.45613444,
+    "c": 267.54157,
+    "h": 121.93263
+   },
+   {
+    "t": 4.78301257,
+    "c": 425.07843,
+    "h": 112.98769
+   },
+   {
+    "t": 4.44486573,
+    "c": 238.89385,
+    "h": 127.71876
+   },
+   {
+    "t": 4.57105894,
+    "c": 481.22549,
+    "h": 118.87546
+   },
+   {
+    "t": 4.60398972,
+    "c": 241.32033,
+    "h": 110.45015
+   },
+   {
+    "t": 4.67054332,
+    "c": 462.52447,
+    "h": 124.13599
+   },
+   {
+    "t": 4.46562582,
+    "c": 245.8295,
+    "h": 124.79399
+   },
+   {
+    "t": 4.75064774,
+    "c": 495.91521,
+    "h": 127.7402
+   },
+   {
+    "t": 4.79569418,
+    "c": 453.85423,
+    "h": 115.99426
+   },
+   {
+    "t": 4.45548815,
+    "c": 297.14612,
+    "h": 124.92567
+   }
+  ]
+ },
+ {
+  "id": "hominino Ardipithecus ramidus / kabadda",
+  "name": "Ardipithecus ramidus",
+  "short": "Ardipithecus",
+  "discovered": 1994,
+  "where": "Ethiopia",
+  "fact": "Ardi's foot had a grasping toe yet she walked on two legs \u2014 bipedalism evolved in forests, not savannas.",
+  "time_min": 3.70020777,
+  "time_max": 4.69968888,
+  "time_mean": 4.191768476079993,
+  "cranial_min": 150.6,
+  "cranial_max": 449.8,
+  "cranial_mean": 300.4,
+  "height_min": 100.0,
+  "height_max": 119.9,
+  "height_mean": 110.0,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Ethiopia",
+  "habitat": "mixed",
+  "diet": "soft fruits",
+  "tecno_type": "no",
+  "biped": "high probability",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "conical",
+  "torus": "very protruding",
+  "prognathism": "high",
+  "foramen": "semi-anterior",
+  "canine_size": "small",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "thick-medium",
+  "tecno": "no",
+  "sexdim": "medium-high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 3.71202407,
+    "c": 319.28772,
+    "h": 101.53277
+   },
+   {
+    "t": 4.5632432,
+    "c": 168.97762,
+    "h": 109.37411
+   },
+   {
+    "t": 4.37647856,
+    "c": 335.43096,
+    "h": 101.12
+   },
+   {
+    "t": 4.5222832,
+    "c": 345.69792,
+    "h": 114.12008
+   },
+   {
+    "t": 4.28925476,
+    "c": 274.2571,
+    "h": 108.83731
+   },
+   {
+    "t": 4.47189856,
+    "c": 204.68146,
+    "h": 111.8884
+   },
+   {
+    "t": 4.14391746,
+    "c": 414.19035,
+    "h": 111.43995
+   },
+   {
+    "t": 4.5505007,
+    "c": 164.20911,
+    "h": 119.67704
+   },
+   {
+    "t": 3.86822589,
+    "c": 272.42839,
+    "h": 115.69466
+   },
+   {
+    "t": 4.14553009,
+    "c": 298.80495,
+    "h": 103.23024
+   },
+   {
+    "t": 3.75910007,
+    "c": 273.6785,
+    "h": 116.04314
+   },
+   {
+    "t": 4.5646827,
+    "c": 388.4792,
+    "h": 113.58299
+   },
+   {
+    "t": 3.93100162,
+    "c": 327.57004,
+    "h": 102.52949
+   },
+   {
+    "t": 3.71653382,
+    "c": 195.24221,
+    "h": 111.49986
+   },
+   {
+    "t": 4.44281319,
+    "c": 173.20111,
+    "h": 104.01103
+   },
+   {
+    "t": 3.84535209,
+    "c": 432.84125,
+    "h": 108.95995
+   },
+   {
+    "t": 4.33505294,
+    "c": 395.02851,
+    "h": 107.07752
+   },
+   {
+    "t": 4.14569051,
+    "c": 244.41923,
+    "h": 101.32551
+   },
+   {
+    "t": 4.40237922,
+    "c": 256.3793,
+    "h": 118.22659
+   },
+   {
+    "t": 4.06323129,
+    "c": 282.59545,
+    "h": 103.57225
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Afarensis",
+  "name": "Australopithecus afarensis",
+  "short": "A. afarensis",
+  "discovered": 1974,
+  "where": "Ethiopia",
+  "fact": "Lucy's species. The Laetoli footprints prove they walked the savanna upright 3.6 million years ago.",
+  "time_min": 3.60286315,
+  "time_max": 4.59239394,
+  "time_mean": 4.08187170722,
+  "cranial_min": 200.7,
+  "cranial_max": 499.8,
+  "cranial_mean": 345.2,
+  "height_min": 120.0,
+  "height_max": 140.0,
+  "height_mean": 129.8,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "mixed",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "high",
+  "foramen": "anterior",
+  "canine_size": "big",
+  "canine_shape": "incisiform",
+  "incisor": "big",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "slim",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "refined",
+  "samples": [
+   {
+    "t": 3.64188265,
+    "c": 426.57189,
+    "h": 130.68729
+   },
+   {
+    "t": 3.89575945,
+    "c": 486.11084,
+    "h": 131.62855
+   },
+   {
+    "t": 4.41971228,
+    "c": 365.80585,
+    "h": 132.89519
+   },
+   {
+    "t": 4.16144484,
+    "c": 384.64513,
+    "h": 120.78185
+   },
+   {
+    "t": 3.89014464,
+    "c": 446.89344,
+    "h": 127.80793
+   },
+   {
+    "t": 3.77151053,
+    "c": 307.62692,
+    "h": 139.67298
+   },
+   {
+    "t": 4.15075186,
+    "c": 486.52673,
+    "h": 130.304
+   },
+   {
+    "t": 4.49640644,
+    "c": 200.67265,
+    "h": 120.82051
+   },
+   {
+    "t": 3.72391416,
+    "c": 274.72385,
+    "h": 133.3513
+   },
+   {
+    "t": 3.6254299,
+    "c": 458.13473,
+    "h": 126.58584
+   },
+   {
+    "t": 4.29943207,
+    "c": 446.93396,
+    "h": 133.51633
+   },
+   {
+    "t": 4.20134079,
+    "c": 319.20981,
+    "h": 127.27976
+   },
+   {
+    "t": 3.99160823,
+    "c": 291.18795,
+    "h": 138.80304
+   },
+   {
+    "t": 4.40719102,
+    "c": 221.07115,
+    "h": 132.53414
+   },
+   {
+    "t": 4.27868285,
+    "c": 268.07169,
+    "h": 127.54902
+   },
+   {
+    "t": 4.38553861,
+    "c": 309.8552,
+    "h": 121.26252
+   },
+   {
+    "t": 3.65342128,
+    "c": 481.75723,
+    "h": 127.39993
+   },
+   {
+    "t": 3.7820308,
+    "c": 343.38523,
+    "h": 128.46535
+   },
+   {
+    "t": 3.73668071,
+    "c": 203.73301,
+    "h": 121.06634
+   },
+   {
+    "t": 4.16222125,
+    "c": 314.28707,
+    "h": 123.71661
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Bahrelghazali",
+  "name": "Australopithecus bahrelghazali",
+  "short": "A. bahrelghazali",
+  "discovered": 1995,
+  "where": "Chad",
+  "fact": "Found 2,500 km west of the Rift Valley \u2014 the only australopith from central Africa.",
+  "time_min": 3.20141499,
+  "time_max": 4.19561829,
+  "time_mean": 3.694514814940002,
+  "cranial_min": 150.8,
+  "cranial_max": 450.0,
+  "cranial_mean": 299.8,
+  "height_min": 110.1,
+  "height_max": 130.0,
+  "height_mean": 119.9,
+  "location": "Africa",
+  "zone": "central",
+  "country": "Republic of Chad",
+  "habitat": "mixed",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "medium-high",
+  "foramen": "anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "slim",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 3.6842499,
+    "c": 158.15396,
+    "h": 111.53825
+   },
+   {
+    "t": 3.6851735,
+    "c": 407.40836,
+    "h": 116.9253
+   },
+   {
+    "t": 3.74937048,
+    "c": 354.23593,
+    "h": 119.82343
+   },
+   {
+    "t": 4.02340977,
+    "c": 215.5988,
+    "h": 115.42917
+   },
+   {
+    "t": 3.42942414,
+    "c": 425.77245,
+    "h": 125.86441
+   },
+   {
+    "t": 3.36889914,
+    "c": 436.07727,
+    "h": 121.39791
+   },
+   {
+    "t": 3.5466283,
+    "c": 162.30362,
+    "h": 128.24246
+   },
+   {
+    "t": 3.84389831,
+    "c": 386.82062,
+    "h": 116.14245
+   },
+   {
+    "t": 4.13148459,
+    "c": 241.15807,
+    "h": 118.62733
+   },
+   {
+    "t": 3.55818896,
+    "c": 218.14059,
+    "h": 121.12492
+   },
+   {
+    "t": 3.40614431,
+    "c": 320.41105,
+    "h": 129.52697
+   },
+   {
+    "t": 4.05958369,
+    "c": 365.59162,
+    "h": 120.54804
+   },
+   {
+    "t": 3.50823123,
+    "c": 290.11843,
+    "h": 120.66573
+   },
+   {
+    "t": 4.18125517,
+    "c": 206.08658,
+    "h": 128.70099
+   },
+   {
+    "t": 3.25217468,
+    "c": 411.82366,
+    "h": 127.00273
+   },
+   {
+    "t": 3.68149636,
+    "c": 401.66214,
+    "h": 126.34639
+   },
+   {
+    "t": 3.59746816,
+    "c": 174.45893,
+    "h": 120.43326
+   },
+   {
+    "t": 3.72069061,
+    "c": 199.62513,
+    "h": 110.31828
+   },
+   {
+    "t": 3.63118587,
+    "c": 328.77243,
+    "h": 121.22489
+   },
+   {
+    "t": 4.15885827,
+    "c": 292.10143,
+    "h": 116.11334
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Africanus",
+  "name": "Australopithecus africanus",
+  "short": "A. africanus",
+  "discovered": 1924,
+  "where": "South Africa",
+  "fact": "The Taung Child was the first australopith ever found, and the fossil that revealed Africa as humanity's cradle.",
+  "time_min": 3.20033825,
+  "time_max": 4.19902512,
+  "time_mean": 3.6918406528999994,
+  "cranial_min": 400.9,
+  "cranial_max": 699.3,
+  "cranial_mean": 554.4,
+  "height_min": 100.0,
+  "height_max": 119.9,
+  "height_mean": 110.1,
+  "location": "Africa",
+  "zone": "south",
+  "country": "South Africa",
+  "habitat": "forest-gallery",
+  "diet": "dry fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "conical",
+  "torus": "very protruding",
+  "prognathism": "medium-high",
+  "foramen": "anterior",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "small",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "yes",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 3.70926496,
+    "c": 556.65046,
+    "h": 118.99965
+   },
+   {
+    "t": 3.69508665,
+    "c": 503.04487,
+    "h": 115.33415
+   },
+   {
+    "t": 3.89859233,
+    "c": 413.68946,
+    "h": 107.34511
+   },
+   {
+    "t": 3.29071429,
+    "c": 698.91665,
+    "h": 103.18202
+   },
+   {
+    "t": 3.91034811,
+    "c": 502.41318,
+    "h": 104.1764
+   },
+   {
+    "t": 3.51974355,
+    "c": 456.44385,
+    "h": 109.81658
+   },
+   {
+    "t": 3.74501043,
+    "c": 635.60519,
+    "h": 108.76029
+   },
+   {
+    "t": 4.14906725,
+    "c": 440.09284,
+    "h": 116.23355
+   },
+   {
+    "t": 3.9380724,
+    "c": 563.95856,
+    "h": 111.66442
+   },
+   {
+    "t": 3.36214507,
+    "c": 498.41197,
+    "h": 105.26025
+   },
+   {
+    "t": 3.43036519,
+    "c": 519.60463,
+    "h": 100.87717
+   },
+   {
+    "t": 4.10376838,
+    "c": 647.09067,
+    "h": 110.5945
+   },
+   {
+    "t": 4.10009103,
+    "c": 672.7961,
+    "h": 102.46194
+   },
+   {
+    "t": 4.06755697,
+    "c": 658.89368,
+    "h": 119.79484
+   },
+   {
+    "t": 3.41645462,
+    "c": 690.04822,
+    "h": 112.27124
+   },
+   {
+    "t": 4.0598943,
+    "c": 595.0807,
+    "h": 109.67866
+   },
+   {
+    "t": 3.4895202,
+    "c": 512.84438,
+    "h": 102.9842
+   },
+   {
+    "t": 4.12680712,
+    "c": 491.52883,
+    "h": 119.1551
+   },
+   {
+    "t": 3.67642075,
+    "c": 575.87452,
+    "h": 105.79237
+   },
+   {
+    "t": 3.47214897,
+    "c": 492.09346,
+    "h": 104.35219
+   }
+  ]
+ },
+ {
+  "id": "Paranthropus Aethiopicus",
+  "name": "Paranthropus aethiopicus",
+  "short": "P. aethiopicus",
+  "discovered": 1985,
+  "where": "Kenya",
+  "fact": "The 'Black Skull' had the largest sagittal crest of any hominin \u2014 anchoring jaws that could crush nuts.",
+  "time_min": 2.30050862,
+  "time_max": 3.29243101,
+  "time_mean": 2.77407563812,
+  "cranial_min": 300.5,
+  "cranial_max": 599.9,
+  "cranial_mean": 452.2,
+  "height_min": 100.1,
+  "height_max": 120.0,
+  "height_mean": 109.9,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "forest-savanna",
+  "diet": "hard fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "V shape",
+  "torus": "ultra protruding",
+  "prognathism": "very high",
+  "foramen": "semi-anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "megadony",
+  "enamel": "very thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 2.88973989,
+    "c": 431.53333,
+    "h": 110.76888
+   },
+   {
+    "t": 2.54697824,
+    "c": 517.99954,
+    "h": 112.59866
+   },
+   {
+    "t": 2.80680587,
+    "c": 565.93701,
+    "h": 109.42016
+   },
+   {
+    "t": 2.92711124,
+    "c": 433.66808,
+    "h": 118.24026
+   },
+   {
+    "t": 2.90537654,
+    "c": 495.12576,
+    "h": 113.70156
+   },
+   {
+    "t": 3.09068984,
+    "c": 413.25658,
+    "h": 104.87797
+   },
+   {
+    "t": 2.99535424,
+    "c": 434.49525,
+    "h": 108.19165
+   },
+   {
+    "t": 2.77345828,
+    "c": 363.22441,
+    "h": 112.84542
+   },
+   {
+    "t": 2.58777611,
+    "c": 520.15926,
+    "h": 114.33715
+   },
+   {
+    "t": 2.8989677,
+    "c": 379.85444,
+    "h": 102.89194
+   },
+   {
+    "t": 3.28415571,
+    "c": 385.53831,
+    "h": 117.59731
+   },
+   {
+    "t": 2.42867189,
+    "c": 597.85148,
+    "h": 110.14389
+   },
+   {
+    "t": 2.657023,
+    "c": 549.83998,
+    "h": 110.89602
+   },
+   {
+    "t": 2.52798599,
+    "c": 461.18659,
+    "h": 105.23148
+   },
+   {
+    "t": 2.79524649,
+    "c": 586.45516,
+    "h": 119.02186
+   },
+   {
+    "t": 3.02316644,
+    "c": 556.31363,
+    "h": 117.96339
+   },
+   {
+    "t": 3.27708992,
+    "c": 425.90619,
+    "h": 103.65929
+   },
+   {
+    "t": 2.86576709,
+    "c": 519.42523,
+    "h": 111.27017
+   },
+   {
+    "t": 3.08217671,
+    "c": 523.95827,
+    "h": 109.00355
+   },
+   {
+    "t": 2.49409403,
+    "c": 469.86468,
+    "h": 111.21211
+   }
+  ]
+ },
+ {
+  "id": "Homo Habilis",
+  "name": "Homo habilis",
+  "short": "H. habilis",
+  "discovered": 1964,
+  "where": "Tanzania",
+  "fact": "'Handy man' \u2014 the first hominin associated with stone tools, the Oldowan industry.",
+  "time_min": 2.20163259,
+  "time_max": 3.19898123,
+  "time_mean": 2.696488088399998,
+  "cranial_min": 600.1,
+  "cranial_max": 899.7,
+  "cranial_mean": 744.6,
+  "height_min": 120.0,
+  "height_max": 139.9,
+  "height_mean": 130.1,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Ethiopia",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 1",
+  "biped": "modern",
+  "arms": "manipulate",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "little protruding",
+  "prognathism": "medium",
+  "foramen": "anterior",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "small",
+  "enamel": "medium-thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "modern",
+  "vertical": "yes",
+  "anatomy": "modern",
+  "migrated": "yes",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 2.84265962,
+    "c": 693.44711,
+    "h": 137.05753
+   },
+   {
+    "t": 2.66793647,
+    "c": 850.17497,
+    "h": 128.74427
+   },
+   {
+    "t": 2.67411754,
+    "c": 779.45756,
+    "h": 123.49822
+   },
+   {
+    "t": 3.00740664,
+    "c": 844.05913,
+    "h": 139.75903
+   },
+   {
+    "t": 3.05572442,
+    "c": 838.54031,
+    "h": 126.57201
+   },
+   {
+    "t": 2.44566697,
+    "c": 748.04229,
+    "h": 138.90287
+   },
+   {
+    "t": 2.2717683,
+    "c": 723.08195,
+    "h": 121.99635
+   },
+   {
+    "t": 2.822414,
+    "c": 740.20608,
+    "h": 123.22699
+   },
+   {
+    "t": 2.76230741,
+    "c": 765.77951,
+    "h": 127.70192
+   },
+   {
+    "t": 2.9497052,
+    "c": 845.85388,
+    "h": 137.17033
+   },
+   {
+    "t": 2.31199033,
+    "c": 786.437,
+    "h": 129.00346
+   },
+   {
+    "t": 2.91080583,
+    "c": 789.70514,
+    "h": 133.43786
+   },
+   {
+    "t": 3.12093398,
+    "c": 604.60847,
+    "h": 132.37896
+   },
+   {
+    "t": 3.09902969,
+    "c": 707.0186,
+    "h": 134.48559
+   },
+   {
+    "t": 3.10256614,
+    "c": 803.25394,
+    "h": 124.74482
+   },
+   {
+    "t": 2.56825393,
+    "c": 840.97417,
+    "h": 136.66845
+   },
+   {
+    "t": 3.08247006,
+    "c": 639.91777,
+    "h": 127.12692
+   },
+   {
+    "t": 2.89221838,
+    "c": 830.20233,
+    "h": 131.23291
+   },
+   {
+    "t": 2.35335342,
+    "c": 847.7037,
+    "h": 133.76915
+   },
+   {
+    "t": 2.29247811,
+    "c": 633.31304,
+    "h": 139.33658
+   }
+  ]
+ },
+ {
+  "id": "Homo Rudolfensis",
+  "name": "Homo rudolfensis",
+  "short": "H. rudolfensis",
+  "discovered": 1972,
+  "where": "Kenya",
+  "fact": "A larger-brained contemporary of H. habilis \u2014 early Homo was a bushy tree, not a single line.",
+  "time_min": 2.20341968,
+  "time_max": 3.19807145,
+  "time_mean": 2.6859318958799974,
+  "cranial_min": 540.3,
+  "cranial_max": 839.4,
+  "cranial_mean": 679.9,
+  "height_min": 120.0,
+  "height_max": 140.0,
+  "height_mean": 129.8,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "savannah",
+  "diet": "hard fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "less protruding",
+  "prognathism": "medium-high",
+  "foramen": "anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "slim",
+  "vertical": "no",
+  "anatomy": "mixed",
+  "migrated": "no",
+  "skeleton": "refined",
+  "samples": [
+   {
+    "t": 2.6370143,
+    "c": 609.58577,
+    "h": 124.96226
+   },
+   {
+    "t": 2.81383535,
+    "c": 762.25645,
+    "h": 124.66948
+   },
+   {
+    "t": 3.06721638,
+    "c": 722.46245,
+    "h": 137.17125
+   },
+   {
+    "t": 2.94893972,
+    "c": 788.55522,
+    "h": 120.43843
+   },
+   {
+    "t": 2.535381,
+    "c": 757.30448,
+    "h": 138.51615
+   },
+   {
+    "t": 2.29341319,
+    "c": 685.82269,
+    "h": 125.14029
+   },
+   {
+    "t": 2.24587777,
+    "c": 557.64203,
+    "h": 131.15983
+   },
+   {
+    "t": 2.44836443,
+    "c": 620.76009,
+    "h": 132.00777
+   },
+   {
+    "t": 2.75817468,
+    "c": 782.65449,
+    "h": 137.80605
+   },
+   {
+    "t": 2.91133004,
+    "c": 835.10675,
+    "h": 135.47192
+   },
+   {
+    "t": 2.20341968,
+    "c": 686.55681,
+    "h": 131.34123
+   },
+   {
+    "t": 2.58419889,
+    "c": 541.70249,
+    "h": 132.64128
+   },
+   {
+    "t": 2.97255972,
+    "c": 568.4645,
+    "h": 123.84294
+   },
+   {
+    "t": 3.01842538,
+    "c": 834.97462,
+    "h": 138.22503
+   },
+   {
+    "t": 2.72054938,
+    "c": 800.82835,
+    "h": 137.27735
+   },
+   {
+    "t": 2.49385012,
+    "c": 836.65346,
+    "h": 122.08886
+   },
+   {
+    "t": 3.18468496,
+    "c": 743.75316,
+    "h": 125.53762
+   },
+   {
+    "t": 3.01523737,
+    "c": 613.12,
+    "h": 133.80999
+   },
+   {
+    "t": 2.89150547,
+    "c": 611.54986,
+    "h": 121.96725
+   },
+   {
+    "t": 2.79116528,
+    "c": 770.79446,
+    "h": 130.13351
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Garhi",
+  "name": "Australopithecus garhi",
+  "short": "A. garhi",
+  "discovered": 1999,
+  "where": "Ethiopia",
+  "fact": "Found alongside butchered antelope bones \u2014 possibly the first known toolmaker.",
+  "time_min": 2.20400733,
+  "time_max": 3.19549405,
+  "time_mean": 2.6716161824000006,
+  "cranial_min": 225.1,
+  "cranial_max": 525.0,
+  "cranial_mean": 374.9,
+  "height_min": 110.0,
+  "height_max": 130.0,
+  "height_mean": 120.3,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Ethiopia",
+  "habitat": "mixed",
+  "diet": "omnivore",
+  "tecno_type": "primitive",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "medium-high",
+  "foramen": "anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "big",
+  "enamel": "thick",
+  "tecno": "likely",
+  "sexdim": "high",
+  "hip": "slim",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 2.49239593,
+    "c": 305.46138,
+    "h": 128.93119
+   },
+   {
+    "t": 3.07377333,
+    "c": 322.81561,
+    "h": 123.11977
+   },
+   {
+    "t": 2.99566348,
+    "c": 517.93771,
+    "h": 110.46636
+   },
+   {
+    "t": 2.53587526,
+    "c": 460.20892,
+    "h": 126.64756
+   },
+   {
+    "t": 2.33094518,
+    "c": 248.76656,
+    "h": 127.68713
+   },
+   {
+    "t": 2.63518496,
+    "c": 387.36716,
+    "h": 121.01186
+   },
+   {
+    "t": 2.41646066,
+    "c": 508.27441,
+    "h": 127.11257
+   },
+   {
+    "t": 2.60437815,
+    "c": 410.6044,
+    "h": 128.29344
+   },
+   {
+    "t": 2.20526792,
+    "c": 266.22718,
+    "h": 126.93931
+   },
+   {
+    "t": 2.34278354,
+    "c": 418.76284,
+    "h": 126.07509
+   },
+   {
+    "t": 2.42921172,
+    "c": 484.08782,
+    "h": 113.78097
+   },
+   {
+    "t": 2.5875279,
+    "c": 469.86218,
+    "h": 129.70286
+   },
+   {
+    "t": 2.54130919,
+    "c": 344.87796,
+    "h": 116.40891
+   },
+   {
+    "t": 2.22576893,
+    "c": 445.00587,
+    "h": 126.65605
+   },
+   {
+    "t": 2.61086582,
+    "c": 306.98253,
+    "h": 118.56337
+   },
+   {
+    "t": 2.4800729,
+    "c": 524.99699,
+    "h": 125.92003
+   },
+   {
+    "t": 2.37821654,
+    "c": 509.47878,
+    "h": 125.56467
+   },
+   {
+    "t": 2.74815175,
+    "c": 430.36364,
+    "h": 111.92522
+   },
+   {
+    "t": 2.45329565,
+    "c": 346.73515,
+    "h": 116.21121
+   },
+   {
+    "t": 2.58247825,
+    "c": 420.31991,
+    "h": 113.57986
+   }
+  ]
+ },
+ {
+  "id": "Paranthropus Boisei",
+  "name": "Paranthropus boisei",
+  "short": "P. boisei",
+  "discovered": 1959,
+  "where": "Tanzania",
+  "fact": "Nicknamed 'Nutcracker Man' for molars four times the size of ours \u2014 built to grind tough plants.",
+  "time_min": 2.00085805,
+  "time_max": 2.9951624,
+  "time_mean": 2.485446349499997,
+  "cranial_min": 350.0,
+  "cranial_max": 649.8,
+  "cranial_mean": 500.9,
+  "height_min": 100.0,
+  "height_max": 119.9,
+  "height_mean": 109.8,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Ethiopia",
+  "habitat": "forest",
+  "diet": "hard fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "V shape",
+  "torus": "ultra protruding",
+  "prognathism": "very high",
+  "foramen": "semi-anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "megadony",
+  "enamel": "very thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 2.17379087,
+    "c": 490.06908,
+    "h": 103.81584
+   },
+   {
+    "t": 2.12964182,
+    "c": 590.07157,
+    "h": 115.05865
+   },
+   {
+    "t": 2.29058034,
+    "c": 363.77037,
+    "h": 107.95499
+   },
+   {
+    "t": 2.4942806,
+    "c": 407.90734,
+    "h": 108.37032
+   },
+   {
+    "t": 2.67383699,
+    "c": 413.79543,
+    "h": 113.21744
+   },
+   {
+    "t": 2.36302225,
+    "c": 497.23442,
+    "h": 111.42177
+   },
+   {
+    "t": 2.58818677,
+    "c": 589.08789,
+    "h": 102.24179
+   },
+   {
+    "t": 2.23079059,
+    "c": 648.10283,
+    "h": 101.82735
+   },
+   {
+    "t": 2.44465533,
+    "c": 412.6254,
+    "h": 113.27068
+   },
+   {
+    "t": 2.5980699,
+    "c": 536.20444,
+    "h": 115.14143
+   },
+   {
+    "t": 2.5122919,
+    "c": 528.00636,
+    "h": 108.02011
+   },
+   {
+    "t": 2.54914994,
+    "c": 511.55426,
+    "h": 102.50535
+   },
+   {
+    "t": 2.43059549,
+    "c": 500.10153,
+    "h": 102.5244
+   },
+   {
+    "t": 2.30820409,
+    "c": 431.89414,
+    "h": 104.62403
+   },
+   {
+    "t": 2.55124732,
+    "c": 376.23318,
+    "h": 110.01665
+   },
+   {
+    "t": 2.0230342,
+    "c": 408.40433,
+    "h": 115.84359
+   },
+   {
+    "t": 2.24833245,
+    "c": 629.37598,
+    "h": 108.53608
+   },
+   {
+    "t": 2.42635606,
+    "c": 608.42683,
+    "h": 111.47107
+   },
+   {
+    "t": 2.85891717,
+    "c": 468.20985,
+    "h": 103.1314
+   },
+   {
+    "t": 2.91342827,
+    "c": 350.38633,
+    "h": 110.86853
+   }
+  ]
+ },
+ {
+  "id": "Australopithecus Sediba",
+  "name": "Australopithecus sediba",
+  "short": "A. sediba",
+  "discovered": 2008,
+  "where": "South Africa",
+  "fact": "A mosaic of ape and human traits \u2014 its hand could precision-grip, but its arms were still built for climbing.",
+  "time_min": 1.60228506,
+  "time_max": 2.59963815,
+  "time_mean": 2.105092621,
+  "cranial_min": 251.0,
+  "cranial_max": 549.9,
+  "cranial_mean": 398.8,
+  "height_min": 100.0,
+  "height_max": 119.9,
+  "height_mean": 109.9,
+  "location": "Africa",
+  "zone": "south",
+  "country": "South Africa",
+  "habitat": "mixed",
+  "diet": "soft fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "medium-high",
+  "foramen": "anterior",
+  "canine_size": "small",
+  "canine_shape": "conicalls",
+  "incisor": "small",
+  "enamel": "medium-thin",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "slim",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 2.40856826,
+    "c": 500.2381,
+    "h": 104.12534
+   },
+   {
+    "t": 2.56712237,
+    "c": 415.82555,
+    "h": 118.84507
+   },
+   {
+    "t": 1.65676306,
+    "c": 429.95061,
+    "h": 119.71003
+   },
+   {
+    "t": 2.14425168,
+    "c": 439.8608,
+    "h": 100.42287
+   },
+   {
+    "t": 1.65741994,
+    "c": 446.70573,
+    "h": 107.08021
+   },
+   {
+    "t": 2.52787479,
+    "c": 254.39698,
+    "h": 113.10262
+   },
+   {
+    "t": 2.14134324,
+    "c": 320.53724,
+    "h": 115.62085
+   },
+   {
+    "t": 1.84566943,
+    "c": 376.22297,
+    "h": 101.69102
+   },
+   {
+    "t": 2.52924496,
+    "c": 316.86391,
+    "h": 102.84641
+   },
+   {
+    "t": 1.79908641,
+    "c": 313.93564,
+    "h": 103.37488
+   },
+   {
+    "t": 2.46852586,
+    "c": 310.86137,
+    "h": 111.13716
+   },
+   {
+    "t": 2.21954534,
+    "c": 257.32692,
+    "h": 111.11098
+   },
+   {
+    "t": 2.03436696,
+    "c": 250.98101,
+    "h": 114.86988
+   },
+   {
+    "t": 1.61293409,
+    "c": 311.96303,
+    "h": 119.88363
+   },
+   {
+    "t": 2.59496502,
+    "c": 529.96226,
+    "h": 110.3828
+   },
+   {
+    "t": 2.5440589,
+    "c": 250.98173,
+    "h": 103.64858
+   },
+   {
+    "t": 1.64996722,
+    "c": 437.7932,
+    "h": 119.16559
+   },
+   {
+    "t": 2.21040845,
+    "c": 320.06077,
+    "h": 100.04334
+   },
+   {
+    "t": 2.19203481,
+    "c": 517.86986,
+    "h": 108.41392
+   },
+   {
+    "t": 2.0008349,
+    "c": 301.11669,
+    "h": 104.63167
+   }
+  ]
+ },
+ {
+  "id": "Paranthropus Robustus",
+  "name": "Paranthropus robustus",
+  "short": "P. robustus",
+  "discovered": 1938,
+  "where": "South Africa",
+  "fact": "A robust australopith that lived alongside early Homo \u2014 and lost the evolutionary race.",
+  "time_min": 1.60007076,
+  "time_max": 2.59982456,
+  "time_mean": 2.100024857419999,
+  "cranial_min": 350.1,
+  "cranial_max": 649.8,
+  "cranial_mean": 496.8,
+  "height_min": 110.0,
+  "height_max": 129.9,
+  "height_mean": 120.0,
+  "location": "Africa",
+  "zone": "south",
+  "country": "South Africa",
+  "habitat": "jungle",
+  "diet": "hard fruits",
+  "tecno_type": "no",
+  "biped": "yes",
+  "arms": "climbing",
+  "foots": "climbing",
+  "jaw": "V shape",
+  "torus": "ultra protruding",
+  "prognathism": "very high",
+  "foramen": "semi-anterior",
+  "canine_size": "big",
+  "canine_shape": "conicalls",
+  "incisor": "megadony",
+  "enamel": "very thick",
+  "tecno": "no",
+  "sexdim": "high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "old",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 2.16533602,
+    "c": 497.76942,
+    "h": 114.54527
+   },
+   {
+    "t": 2.46448302,
+    "c": 487.99752,
+    "h": 127.89136
+   },
+   {
+    "t": 1.88422124,
+    "c": 412.6502,
+    "h": 114.36956
+   },
+   {
+    "t": 1.95424424,
+    "c": 443.86683,
+    "h": 125.73997
+   },
+   {
+    "t": 1.86000273,
+    "c": 368.52745,
+    "h": 125.05127
+   },
+   {
+    "t": 2.50802212,
+    "c": 644.471,
+    "h": 129.20505
+   },
+   {
+    "t": 1.9655259,
+    "c": 368.74844,
+    "h": 119.01555
+   },
+   {
+    "t": 2.39219922,
+    "c": 390.01011,
+    "h": 126.35305
+   },
+   {
+    "t": 2.11128964,
+    "c": 555.94613,
+    "h": 111.5298
+   },
+   {
+    "t": 1.75969674,
+    "c": 544.66681,
+    "h": 123.98623
+   },
+   {
+    "t": 2.25700815,
+    "c": 378.01865,
+    "h": 127.28061
+   },
+   {
+    "t": 2.57640137,
+    "c": 473.23427,
+    "h": 122.81116
+   },
+   {
+    "t": 2.25326995,
+    "c": 464.64122,
+    "h": 117.02076
+   },
+   {
+    "t": 2.02201607,
+    "c": 506.79416,
+    "h": 121.1344
+   },
+   {
+    "t": 1.77825956,
+    "c": 371.99842,
+    "h": 113.10046
+   },
+   {
+    "t": 2.27919684,
+    "c": 592.98502,
+    "h": 113.08101
+   },
+   {
+    "t": 2.49386552,
+    "c": 406.45344,
+    "h": 121.09443
+   },
+   {
+    "t": 1.78159973,
+    "c": 624.47588,
+    "h": 126.1215
+   },
+   {
+    "t": 2.30624417,
+    "c": 498.92095,
+    "h": 124.53531
+   },
+   {
+    "t": 2.42481157,
+    "c": 440.70291,
+    "h": 111.62891
+   }
+  ]
+ },
+ {
+  "id": "Homo Georgicus",
+  "name": "Homo georgicus",
+  "short": "H. georgicus",
+  "discovered": 1991,
+  "where": "Georgia",
+  "fact": "Found at Dmanisi \u2014 the earliest hominin remains outside Africa, a small-brained pioneer.",
+  "time_min": 1.50270578,
+  "time_max": 2.4999189,
+  "time_mean": 2.0014837165799992,
+  "cranial_min": 570.5,
+  "cranial_max": 869.7,
+  "cranial_mean": 710.7,
+  "height_min": 140.0,
+  "height_max": 160.0,
+  "height_mean": 149.7,
+  "location": "Asia",
+  "zone": "west",
+  "country": "Georgia",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 1",
+  "biped": "modern",
+  "arms": "manipulate",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "very protruding",
+  "prognathism": "medium",
+  "foramen": "anterior",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "medium large",
+  "enamel": "medium-thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "modern",
+  "vertical": "modern",
+  "anatomy": "modern",
+  "migrated": "yes",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 1.6215705,
+    "c": 614.56654,
+    "h": 140.47222
+   },
+   {
+    "t": 1.71519247,
+    "c": 694.71483,
+    "h": 153.96591
+   },
+   {
+    "t": 1.51845305,
+    "c": 622.17009,
+    "h": 149.65349
+   },
+   {
+    "t": 1.86124198,
+    "c": 846.45135,
+    "h": 145.94074
+   },
+   {
+    "t": 2.25157509,
+    "c": 808.23541,
+    "h": 152.40623
+   },
+   {
+    "t": 1.74896824,
+    "c": 684.04,
+    "h": 154.08823
+   },
+   {
+    "t": 2.08512505,
+    "c": 692.90535,
+    "h": 155.22763
+   },
+   {
+    "t": 2.3813144,
+    "c": 726.73239,
+    "h": 153.90975
+   },
+   {
+    "t": 1.52236466,
+    "c": 802.38744,
+    "h": 152.74622
+   },
+   {
+    "t": 2.13133689,
+    "c": 598.71795,
+    "h": 141.37489
+   },
+   {
+    "t": 1.54805671,
+    "c": 601.45803,
+    "h": 144.20215
+   },
+   {
+    "t": 1.51128277,
+    "c": 622.53093,
+    "h": 146.38287
+   },
+   {
+    "t": 1.58301498,
+    "c": 823.96403,
+    "h": 147.24569
+   },
+   {
+    "t": 1.64367094,
+    "c": 630.46325,
+    "h": 144.78267
+   },
+   {
+    "t": 2.0922892,
+    "c": 858.51063,
+    "h": 140.51925
+   },
+   {
+    "t": 2.26018194,
+    "c": 634.42693,
+    "h": 147.50408
+   },
+   {
+    "t": 2.48637751,
+    "c": 589.50458,
+    "h": 149.81144
+   },
+   {
+    "t": 2.11752187,
+    "c": 713.5076,
+    "h": 144.97514
+   },
+   {
+    "t": 1.53475117,
+    "c": 666.04714,
+    "h": 141.02466
+   },
+   {
+    "t": 2.36122546,
+    "c": 682.04924,
+    "h": 149.0488
+   }
+  ]
+ },
+ {
+  "id": "Homo Ergaster",
+  "name": "Homo ergaster",
+  "short": "H. ergaster",
+  "discovered": 1975,
+  "where": "Kenya",
+  "fact": "Modern body proportions and Acheulean handaxes \u2014 the first hominin who looked, from the neck down, like us.",
+  "time_min": 1.20010492,
+  "time_max": 2.19411815,
+  "time_mean": 1.7062061103800001,
+  "cranial_min": 700.0,
+  "cranial_max": 999.9,
+  "cranial_mean": 839.9,
+  "height_min": 150.0,
+  "height_max": 169.9,
+  "height_mean": 159.9,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 2",
+  "biped": "modern",
+  "arms": "manipulate with precision",
+  "foots": "walk",
+  "jaw": "modern",
+  "torus": "very protruding",
+  "prognathism": "reduced",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "very small",
+  "enamel": "medium-thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "modern",
+  "vertical": "modern",
+  "anatomy": "modern",
+  "migrated": "yes",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 1.9643118,
+    "c": 901.07033,
+    "h": 159.62018
+   },
+   {
+    "t": 1.77988493,
+    "c": 893.791,
+    "h": 167.4728
+   },
+   {
+    "t": 1.94169057,
+    "c": 707.69317,
+    "h": 164.09792
+   },
+   {
+    "t": 1.9291256,
+    "c": 852.27424,
+    "h": 165.91874
+   },
+   {
+    "t": 1.20826238,
+    "c": 935.724,
+    "h": 157.48844
+   },
+   {
+    "t": 1.54295395,
+    "c": 749.53066,
+    "h": 157.81747
+   },
+   {
+    "t": 1.75607589,
+    "c": 966.04557,
+    "h": 151.44786
+   },
+   {
+    "t": 1.41492728,
+    "c": 858.7977,
+    "h": 157.54813
+   },
+   {
+    "t": 1.98886622,
+    "c": 892.64145,
+    "h": 154.23463
+   },
+   {
+    "t": 1.88073486,
+    "c": 926.67936,
+    "h": 162.00589
+   },
+   {
+    "t": 1.79754688,
+    "c": 842.02553,
+    "h": 164.28401
+   },
+   {
+    "t": 1.72493556,
+    "c": 999.92795,
+    "h": 153.50233
+   },
+   {
+    "t": 2.1927561,
+    "c": 723.48777,
+    "h": 168.99945
+   },
+   {
+    "t": 1.59269197,
+    "c": 794.65788,
+    "h": 168.35484
+   },
+   {
+    "t": 2.09591101,
+    "c": 871.59519,
+    "h": 167.4395
+   },
+   {
+    "t": 1.46836733,
+    "c": 902.80018,
+    "h": 152.21479
+   },
+   {
+    "t": 1.83537382,
+    "c": 700.00028,
+    "h": 167.30863
+   },
+   {
+    "t": 1.78457724,
+    "c": 918.78154,
+    "h": 151.15781
+   },
+   {
+    "t": 1.93162017,
+    "c": 776.82699,
+    "h": 163.50589
+   },
+   {
+    "t": 1.64081029,
+    "c": 718.86813,
+    "h": 165.98159
+   }
+  ]
+ },
+ {
+  "id": "Homo Erectus",
+  "name": "Homo erectus",
+  "short": "H. erectus",
+  "discovered": 1891,
+  "where": "Indonesia",
+  "fact": "The longest-lived human species \u2014 nearly 2 million years across Africa and Asia, and the first to use fire.",
+  "time_min": 1.00013074,
+  "time_max": 1.99963108,
+  "time_mean": 1.4959628189599994,
+  "cranial_min": 900.4,
+  "cranial_max": 1199.8,
+  "cranial_mean": 1047.2,
+  "height_min": 150.0,
+  "height_max": 169.9,
+  "height_mean": 160.3,
+  "location": "Asia",
+  "zone": "west",
+  "country": "Indonesia",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 1",
+  "biped": "modern",
+  "arms": "manipulate",
+  "foots": "walk",
+  "jaw": "modern",
+  "torus": "little protruding",
+  "prognathism": "reduced",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "very small",
+  "enamel": "thick",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "modern",
+  "vertical": "modern",
+  "anatomy": "modern",
+  "migrated": "yes",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 1.62390646,
+    "c": 1042.53281,
+    "h": 151.92541
+   },
+   {
+    "t": 1.72510298,
+    "c": 1123.50945,
+    "h": 163.91342
+   },
+   {
+    "t": 1.49640422,
+    "c": 1199.76602,
+    "h": 152.24556
+   },
+   {
+    "t": 1.93843488,
+    "c": 977.75485,
+    "h": 169.32917
+   },
+   {
+    "t": 1.71133269,
+    "c": 1082.0884,
+    "h": 166.05945
+   },
+   {
+    "t": 1.17683732,
+    "c": 1053.90405,
+    "h": 159.31596
+   },
+   {
+    "t": 1.69890483,
+    "c": 1034.27669,
+    "h": 153.46902
+   },
+   {
+    "t": 1.99390031,
+    "c": 957.08112,
+    "h": 158.81526
+   },
+   {
+    "t": 1.78653269,
+    "c": 959.16417,
+    "h": 166.34355
+   },
+   {
+    "t": 1.51943338,
+    "c": 1079.24955,
+    "h": 155.88553
+   },
+   {
+    "t": 1.025712,
+    "c": 1080.60276,
+    "h": 155.58326
+   },
+   {
+    "t": 1.26487718,
+    "c": 1119.09498,
+    "h": 154.24643
+   },
+   {
+    "t": 1.98525544,
+    "c": 1111.37611,
+    "h": 164.05546
+   },
+   {
+    "t": 1.43278413,
+    "c": 1067.91307,
+    "h": 155.55846
+   },
+   {
+    "t": 1.18779798,
+    "c": 1103.39946,
+    "h": 152.83353
+   },
+   {
+    "t": 1.79249254,
+    "c": 1099.31388,
+    "h": 155.84029
+   },
+   {
+    "t": 1.29459262,
+    "c": 1053.18624,
+    "h": 161.95971
+   },
+   {
+    "t": 1.85011316,
+    "c": 1116.48419,
+    "h": 160.54836
+   },
+   {
+    "t": 1.8240024,
+    "c": 1004.72373,
+    "h": 155.48925
+   },
+   {
+    "t": 1.87306564,
+    "c": 911.72713,
+    "h": 156.39864
+   }
+  ]
+ },
+ {
+  "id": "Homo Antecesor",
+  "name": "Homo antecessor",
+  "short": "H. antecessor",
+  "discovered": 1997,
+  "where": "Spain",
+  "fact": "Europe's earliest known human \u2014 and the first to leave evidence of cannibalism.",
+  "time_min": 0.70030809,
+  "time_max": 1.69929318,
+  "time_mean": 1.1817711157800008,
+  "cranial_min": 871.4,
+  "cranial_max": 1169.9,
+  "cranial_mean": 1026.9,
+  "height_min": 160.0,
+  "height_max": 179.9,
+  "height_mean": 169.8,
+  "location": "Europa",
+  "zone": "west",
+  "country": "Spain",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 1",
+  "biped": "modern",
+  "arms": "manipulate",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "little protruding",
+  "prognathism": "medium",
+  "foramen": "modern",
+  "canine_size": "big",
+  "canine_shape": "incisiform",
+  "incisor": "medium large",
+  "enamel": "medium-thick",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "modern",
+  "vertical": "modern",
+  "anatomy": "mixed",
+  "migrated": "yes",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 0.79467343,
+    "c": 1145.64003,
+    "h": 174.95753
+   },
+   {
+    "t": 1.0416343,
+    "c": 1159.79354,
+    "h": 162.12425
+   },
+   {
+    "t": 1.61390792,
+    "c": 1098.50695,
+    "h": 162.7356
+   },
+   {
+    "t": 1.60274781,
+    "c": 1040.31589,
+    "h": 170.40118
+   },
+   {
+    "t": 1.66324458,
+    "c": 1087.98518,
+    "h": 168.61097
+   },
+   {
+    "t": 1.3009386,
+    "c": 1151.24734,
+    "h": 163.3541
+   },
+   {
+    "t": 1.24824808,
+    "c": 984.2339,
+    "h": 165.6256
+   },
+   {
+    "t": 0.70512558,
+    "c": 958.3686,
+    "h": 171.86014
+   },
+   {
+    "t": 1.61948895,
+    "c": 1019.92474,
+    "h": 178.16111
+   },
+   {
+    "t": 1.45283467,
+    "c": 892.74349,
+    "h": 163.1765
+   },
+   {
+    "t": 1.00446466,
+    "c": 1086.89103,
+    "h": 173.64229
+   },
+   {
+    "t": 0.75851672,
+    "c": 947.60815,
+    "h": 171.60263
+   },
+   {
+    "t": 1.13024062,
+    "c": 934.01452,
+    "h": 170.60203
+   },
+   {
+    "t": 0.95909872,
+    "c": 1150.71236,
+    "h": 163.92004
+   },
+   {
+    "t": 1.54550607,
+    "c": 1046.57946,
+    "h": 161.65509
+   },
+   {
+    "t": 1.25522914,
+    "c": 941.26225,
+    "h": 179.31266
+   },
+   {
+    "t": 1.12667383,
+    "c": 923.96519,
+    "h": 163.27111
+   },
+   {
+    "t": 0.82122563,
+    "c": 1162.66425,
+    "h": 170.90413
+   },
+   {
+    "t": 1.30844942,
+    "c": 1029.66973,
+    "h": 161.73649
+   },
+   {
+    "t": 1.03881593,
+    "c": 1042.62748,
+    "h": 162.30747
+   }
+  ]
+ },
+ {
+  "id": "Homo Rodhesiensis",
+  "name": "Homo rhodesiensis",
+  "short": "H. rhodesiensis",
+  "discovered": 1921,
+  "where": "Zambia",
+  "fact": "Sometimes considered an African Heidelbergensis \u2014 a possible ancestor of modern humans.",
+  "time_min": 0.30159441,
+  "time_max": 1.29973895,
+  "time_mean": 0.8022038564000005,
+  "cranial_min": 950.7,
+  "cranial_max": 1249.9,
+  "cranial_mean": 1097.3,
+  "height_min": 140.3,
+  "height_max": 160.0,
+  "height_mean": 150.1,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Ethiopia",
+  "habitat": "savannah",
+  "diet": "omnivore",
+  "tecno_type": "mode 2",
+  "biped": "modern",
+  "arms": "manipulate with precision",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "less protruding",
+  "prognathism": "medium-high",
+  "foramen": "modern",
+  "canine_size": "big",
+  "canine_shape": "incisiform",
+  "incisor": "big",
+  "enamel": "medium-thick",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "slim",
+  "vertical": "yes",
+  "anatomy": "mixed",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 0.87890051,
+    "c": 1120.67731,
+    "h": 143.54468
+   },
+   {
+    "t": 0.83732262,
+    "c": 1107.55237,
+    "h": 145.39453
+   },
+   {
+    "t": 1.14178384,
+    "c": 1084.99453,
+    "h": 147.05323
+   },
+   {
+    "t": 1.10135159,
+    "c": 968.39811,
+    "h": 155.50145
+   },
+   {
+    "t": 1.21021137,
+    "c": 998.58872,
+    "h": 146.44322
+   },
+   {
+    "t": 0.80748883,
+    "c": 1226.88553,
+    "h": 153.844
+   },
+   {
+    "t": 1.15044814,
+    "c": 1155.87122,
+    "h": 159.40893
+   },
+   {
+    "t": 1.09182458,
+    "c": 1016.26591,
+    "h": 153.08729
+   },
+   {
+    "t": 1.11818997,
+    "c": 1236.39545,
+    "h": 140.31799
+   },
+   {
+    "t": 0.72464029,
+    "c": 995.44508,
+    "h": 157.18013
+   },
+   {
+    "t": 1.06906826,
+    "c": 1168.62645,
+    "h": 157.76311
+   },
+   {
+    "t": 1.14798098,
+    "c": 1036.18929,
+    "h": 148.44597
+   },
+   {
+    "t": 1.00565901,
+    "c": 1193.47151,
+    "h": 140.94964
+   },
+   {
+    "t": 0.57137792,
+    "c": 972.07551,
+    "h": 148.1495
+   },
+   {
+    "t": 0.73200298,
+    "c": 1133.67271,
+    "h": 148.13209
+   },
+   {
+    "t": 0.47584725,
+    "c": 1188.27547,
+    "h": 157.78019
+   },
+   {
+    "t": 0.55171163,
+    "c": 1099.49969,
+    "h": 155.59207
+   },
+   {
+    "t": 0.38263648,
+    "c": 1128.17803,
+    "h": 155.86409
+   },
+   {
+    "t": 0.52273564,
+    "c": 1094.38869,
+    "h": 154.35014
+   },
+   {
+    "t": 0.9695934,
+    "c": 1182.57828,
+    "h": 154.22683
+   }
+  ]
+ },
+ {
+  "id": "Homo Heidelbergensis",
+  "name": "Homo heidelbergensis",
+  "short": "H. heidelbergensis",
+  "discovered": 1907,
+  "where": "Germany",
+  "fact": "Big-brained big-game hunters \u2014 the likely ancestor of both Neanderthals and us.",
+  "time_min": 0.20007842,
+  "time_max": 1.19282255,
+  "time_mean": 0.696046882439999,
+  "cranial_min": 1150.0,
+  "cranial_max": 1448.4,
+  "cranial_mean": 1299.9,
+  "height_min": 165.0,
+  "height_max": 185.0,
+  "height_mean": 175.1,
+  "location": "Europa",
+  "zone": "central",
+  "country": "Germany",
+  "habitat": "cold forest",
+  "diet": "carnivorous",
+  "tecno_type": "mode 2",
+  "biped": "modern",
+  "arms": "manipulate",
+  "foots": "walk",
+  "jaw": "modern",
+  "torus": "little protruding",
+  "prognathism": "reduced",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "small",
+  "enamel": "thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "very modern",
+  "vertical": "modern",
+  "anatomy": "very modern",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 0.44049275,
+    "c": 1169.52899,
+    "h": 171.81991
+   },
+   {
+    "t": 0.29464339,
+    "c": 1159.97052,
+    "h": 176.30268
+   },
+   {
+    "t": 1.00936445,
+    "c": 1440.51559,
+    "h": 179.22013
+   },
+   {
+    "t": 0.4645571,
+    "c": 1189.43896,
+    "h": 183.63681
+   },
+   {
+    "t": 0.44676114,
+    "c": 1188.9685,
+    "h": 182.77487
+   },
+   {
+    "t": 0.22265805,
+    "c": 1276.07692,
+    "h": 170.38578
+   },
+   {
+    "t": 1.09347581,
+    "c": 1170.147,
+    "h": 171.79038
+   },
+   {
+    "t": 0.63419755,
+    "c": 1349.42285,
+    "h": 183.31791
+   },
+   {
+    "t": 0.97787187,
+    "c": 1395.35795,
+    "h": 174.65835
+   },
+   {
+    "t": 0.25590872,
+    "c": 1368.66526,
+    "h": 174.16981
+   },
+   {
+    "t": 0.51503815,
+    "c": 1150.04976,
+    "h": 182.99905
+   },
+   {
+    "t": 0.52902418,
+    "c": 1278.94913,
+    "h": 168.30839
+   },
+   {
+    "t": 0.22734441,
+    "c": 1337.88534,
+    "h": 170.65518
+   },
+   {
+    "t": 1.16703422,
+    "c": 1224.96776,
+    "h": 169.06926
+   },
+   {
+    "t": 0.77316678,
+    "c": 1218.13545,
+    "h": 167.58951
+   },
+   {
+    "t": 0.54468705,
+    "c": 1336.46093,
+    "h": 178.796
+   },
+   {
+    "t": 0.54924434,
+    "c": 1398.55866,
+    "h": 183.24676
+   },
+   {
+    "t": 0.74694057,
+    "c": 1188.3707,
+    "h": 183.88483
+   },
+   {
+    "t": 0.95176443,
+    "c": 1400.63052,
+    "h": 176.05092
+   },
+   {
+    "t": 0.22146089,
+    "c": 1305.98395,
+    "h": 182.8652
+   }
+  ]
+ },
+ {
+  "id": "Homo Naledi",
+  "name": "Homo naledi",
+  "short": "H. naledi",
+  "discovered": 2013,
+  "where": "South Africa",
+  "fact": "Small-brained yet possibly buried its dead in deep cave chambers \u2014 a stunning recent discovery.",
+  "time_min": 0.00064144,
+  "time_max": 0.9970363,
+  "time_mean": 0.5073757512600005,
+  "cranial_min": 200.6,
+  "cranial_max": 500.0,
+  "cranial_mean": 355.8,
+  "height_min": 120.0,
+  "height_max": 140.0,
+  "height_mean": 130.1,
+  "location": "Africa",
+  "zone": "south",
+  "country": "South Africa",
+  "habitat": "jungle",
+  "diet": "omnivore",
+  "tecno_type": "no",
+  "biped": "modern",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "little protruding",
+  "prognathism": "medium-high",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "big",
+  "enamel": "medium-thin",
+  "tecno": "no",
+  "sexdim": "medium-high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "mixed",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 0.9228124,
+    "c": 474.75604,
+    "h": 123.28871
+   },
+   {
+    "t": 0.67612487,
+    "c": 325.99283,
+    "h": 122.56295
+   },
+   {
+    "t": 0.4330551,
+    "c": 209.02764,
+    "h": 136.90332
+   },
+   {
+    "t": 0.87418978,
+    "c": 233.15956,
+    "h": 136.86006
+   },
+   {
+    "t": 0.79010719,
+    "c": 329.95954,
+    "h": 132.80002
+   },
+   {
+    "t": 0.437809,
+    "c": 278.82537,
+    "h": 129.34276
+   },
+   {
+    "t": 0.13001747,
+    "c": 251.79668,
+    "h": 120.69409
+   },
+   {
+    "t": 0.02759281,
+    "c": 484.13502,
+    "h": 131.88016
+   },
+   {
+    "t": 0.81884026,
+    "c": 489.30255,
+    "h": 123.07506
+   },
+   {
+    "t": 0.78928167,
+    "c": 202.56489,
+    "h": 137.79946
+   },
+   {
+    "t": 0.03116744,
+    "c": 487.14169,
+    "h": 127.92068
+   },
+   {
+    "t": 0.84595092,
+    "c": 326.46261,
+    "h": 130.79235
+   },
+   {
+    "t": 0.67362811,
+    "c": 278.01833,
+    "h": 126.13326
+   },
+   {
+    "t": 0.02547601,
+    "c": 211.3304,
+    "h": 139.37694
+   },
+   {
+    "t": 0.62482551,
+    "c": 235.47206,
+    "h": 128.67183
+   },
+   {
+    "t": 0.20048903,
+    "c": 291.56453,
+    "h": 130.14473
+   },
+   {
+    "t": 0.8557439,
+    "c": 462.38966,
+    "h": 128.42262
+   },
+   {
+    "t": 0.57042841,
+    "c": 444.84295,
+    "h": 134.97872
+   },
+   {
+    "t": 0.19743039,
+    "c": 288.91359,
+    "h": 136.69941
+   },
+   {
+    "t": 0.36276354,
+    "c": 327.82005,
+    "h": 137.37759
+   }
+  ]
+ },
+ {
+  "id": "Homo Floresiensis",
+  "name": "Homo floresiensis",
+  "short": "H. floresiensis",
+  "discovered": 2003,
+  "where": "Indonesia",
+  "fact": "The 'Hobbit' \u2014 a meter-tall human that survived on Flores until perhaps 50,000 years ago.",
+  "time_min": 0.00109804,
+  "time_max": 0.99987342,
+  "time_mean": 0.4981616707400002,
+  "cranial_min": 151.4,
+  "cranial_max": 449.7,
+  "cranial_mean": 295.0,
+  "height_min": 90.0,
+  "height_max": 110.0,
+  "height_mean": 100.1,
+  "location": "Asia",
+  "zone": "oriental",
+  "country": "Indonesia",
+  "habitat": "peninsular",
+  "diet": "omnivore",
+  "tecno_type": "mode 1",
+  "biped": "modern",
+  "arms": "climbing",
+  "foots": "walk",
+  "jaw": "U shape",
+  "torus": "little protruding",
+  "prognathism": "medium-high",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "small",
+  "enamel": "medium-thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "wide",
+  "vertical": "no",
+  "anatomy": "mixed",
+  "migrated": "no",
+  "skeleton": "light",
+  "samples": [
+   {
+    "t": 0.9095119,
+    "c": 171.99305,
+    "h": 104.2046
+   },
+   {
+    "t": 0.32262841,
+    "c": 281.61102,
+    "h": 93.47275
+   },
+   {
+    "t": 0.40057637,
+    "c": 260.13191,
+    "h": 106.9499
+   },
+   {
+    "t": 0.12325066,
+    "c": 428.41312,
+    "h": 94.60768
+   },
+   {
+    "t": 0.91164408,
+    "c": 325.77892,
+    "h": 108.65342
+   },
+   {
+    "t": 0.40642834,
+    "c": 192.43,
+    "h": 94.46305
+   },
+   {
+    "t": 0.13731079,
+    "c": 395.57935,
+    "h": 93.24307
+   },
+   {
+    "t": 0.63706054,
+    "c": 199.5211,
+    "h": 96.49948
+   },
+   {
+    "t": 0.8943163,
+    "c": 211.02765,
+    "h": 102.71153
+   },
+   {
+    "t": 0.37771216,
+    "c": 429.8016,
+    "h": 94.92865
+   },
+   {
+    "t": 0.99054334,
+    "c": 260.17345,
+    "h": 95.72873
+   },
+   {
+    "t": 0.46024388,
+    "c": 295.72424,
+    "h": 109.0315
+   },
+   {
+    "t": 0.63665573,
+    "c": 211.42593,
+    "h": 106.77439
+   },
+   {
+    "t": 0.28302346,
+    "c": 304.99883,
+    "h": 99.03018
+   },
+   {
+    "t": 0.12442415,
+    "c": 163.10817,
+    "h": 99.87263
+   },
+   {
+    "t": 0.43489398,
+    "c": 435.33187,
+    "h": 101.22722
+   },
+   {
+    "t": 0.6348587,
+    "c": 346.14012,
+    "h": 90.654
+   },
+   {
+    "t": 0.73629391,
+    "c": 291.10249,
+    "h": 95.56492
+   },
+   {
+    "t": 0.90104115,
+    "c": 428.98321,
+    "h": 92.92391
+   },
+   {
+    "t": 0.3419787,
+    "c": 403.41173,
+    "h": 99.21194
+   }
+  ]
+ },
+ {
+  "id": "Homo Sapiens",
+  "name": "Homo sapiens",
+  "short": "H. sapiens",
+  "discovered": 1758,
+  "where": "Worldwide",
+  "fact": "Us. The only surviving human lineage out of more than two dozen \u2014 and now the most populous large mammal on Earth.",
+  "time_min": 0.00052926,
+  "time_max": 0.99902671,
+  "time_mean": 0.4808193427200003,
+  "cranial_min": 1075.9,
+  "cranial_max": 1374.5,
+  "cranial_mean": 1235.9,
+  "height_min": 160.1,
+  "height_max": 180.0,
+  "height_mean": 170.1,
+  "location": "Africa",
+  "zone": "oriental",
+  "country": "Kenya",
+  "habitat": "savannah",
+  "diet": "carnivorous",
+  "tecno_type": "mode 4",
+  "biped": "modern",
+  "arms": "manipulate with precision",
+  "foots": "walk",
+  "jaw": "modern",
+  "torus": "flat",
+  "prognathism": "absent",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "very small",
+  "enamel": "very thin",
+  "tecno": "yes",
+  "sexdim": "reduced",
+  "hip": "very modern",
+  "vertical": "modern",
+  "anatomy": "very modern",
+  "migrated": "yes",
+  "skeleton": "refined",
+  "samples": [
+   {
+    "t": 0.72610622,
+    "c": 1285.52839,
+    "h": 170.48581
+   },
+   {
+    "t": 0.00996929,
+    "c": 1086.42512,
+    "h": 176.63055
+   },
+   {
+    "t": 0.31294314,
+    "c": 1239.83827,
+    "h": 163.55448
+   },
+   {
+    "t": 0.09319418,
+    "c": 1369.25851,
+    "h": 172.47471
+   },
+   {
+    "t": 0.71281287,
+    "c": 1314.29481,
+    "h": 161.98169
+   },
+   {
+    "t": 0.00266213,
+    "c": 1334.7949,
+    "h": 174.10253
+   },
+   {
+    "t": 0.33766568,
+    "c": 1293.04672,
+    "h": 176.30292
+   },
+   {
+    "t": 0.0060405,
+    "c": 1337.14892,
+    "h": 164.57574
+   },
+   {
+    "t": 0.64570768,
+    "c": 1088.78924,
+    "h": 169.68533
+   },
+   {
+    "t": 0.42552239,
+    "c": 1095.71268,
+    "h": 173.73932
+   },
+   {
+    "t": 0.86113135,
+    "c": 1217.50439,
+    "h": 165.84427
+   },
+   {
+    "t": 0.25365363,
+    "c": 1193.31999,
+    "h": 166.82177
+   },
+   {
+    "t": 0.5938907,
+    "c": 1242.75936,
+    "h": 168.17867
+   },
+   {
+    "t": 0.72312345,
+    "c": 1348.68336,
+    "h": 161.09299
+   },
+   {
+    "t": 0.79377864,
+    "c": 1297.22897,
+    "h": 162.61623
+   },
+   {
+    "t": 0.49144678,
+    "c": 1195.14511,
+    "h": 178.84321
+   },
+   {
+    "t": 0.19925819,
+    "c": 1272.5108,
+    "h": 173.26484
+   },
+   {
+    "t": 0.13733223,
+    "c": 1358.46603,
+    "h": 166.02984
+   },
+   {
+    "t": 0.42782402,
+    "c": 1272.7478,
+    "h": 169.02128
+   },
+   {
+    "t": 0.52268354,
+    "c": 1267.16964,
+    "h": 173.48237
+   }
+  ]
+ },
+ {
+  "id": "Homo Neanderthalensis",
+  "name": "Homo neanderthalensis",
+  "short": "Neanderthal",
+  "discovered": 1856,
+  "where": "Germany",
+  "fact": "Cold-adapted Europeans who buried their dead, made art, and live on in 1\u20134% of non-African DNA.",
+  "time_min": 0.00133397,
+  "time_max": 0.92797191,
+  "time_mean": 0.4691920707000003,
+  "cranial_min": 950.1,
+  "cranial_max": 1248.6,
+  "cranial_mean": 1100.1,
+  "height_min": 150.0,
+  "height_max": 169.9,
+  "height_mean": 159.9,
+  "location": "Europa",
+  "zone": "central",
+  "country": "Germany",
+  "habitat": "cold forest",
+  "diet": "carnivorous",
+  "tecno_type": "mode 3",
+  "biped": "modern",
+  "arms": "manipulate with precision",
+  "foots": "walk",
+  "jaw": "modern",
+  "torus": "little protruding",
+  "prognathism": "reduced",
+  "foramen": "modern",
+  "canine_size": "small",
+  "canine_shape": "incisiform",
+  "incisor": "big",
+  "enamel": "thin",
+  "tecno": "yes",
+  "sexdim": "medium-high",
+  "hip": "very modern",
+  "vertical": "modern",
+  "anatomy": "very modern",
+  "migrated": "no",
+  "skeleton": "robust",
+  "samples": [
+   {
+    "t": 0.74697685,
+    "c": 1133.011,
+    "h": 160.68346
+   },
+   {
+    "t": 0.35978247,
+    "c": 1144.17158,
+    "h": 167.90893
+   },
+   {
+    "t": 0.54197508,
+    "c": 1108.57428,
+    "h": 169.73058
+   },
+   {
+    "t": 0.68062447,
+    "c": 1226.31121,
+    "h": 153.16677
+   },
+   {
+    "t": 0.17523269,
+    "c": 1244.54394,
+    "h": 165.55514
+   },
+   {
+    "t": 0.38786077,
+    "c": 1166.41237,
+    "h": 165.4248
+   },
+   {
+    "t": 0.46362188,
+    "c": 1223.45887,
+    "h": 152.43211
+   },
+   {
+    "t": 0.19921678,
+    "c": 1135.84862,
+    "h": 157.18574
+   },
+   {
+    "t": 0.24471581,
+    "c": 967.52145,
+    "h": 169.62768
+   },
+   {
+    "t": 0.74857103,
+    "c": 1109.61703,
+    "h": 168.81803
+   },
+   {
+    "t": 0.2706509,
+    "c": 1014.98952,
+    "h": 151.28736
+   },
+   {
+    "t": 0.79254074,
+    "c": 1060.61441,
+    "h": 163.55098
+   },
+   {
+    "t": 0.84514313,
+    "c": 961.63394,
+    "h": 153.78
+   },
+   {
+    "t": 0.75844207,
+    "c": 1068.77616,
+    "h": 157.66569
+   },
+   {
+    "t": 0.77331471,
+    "c": 1092.59619,
+    "h": 160.8896
+   },
+   {
+    "t": 0.46987336,
+    "c": 1146.9272,
+    "h": 163.47078
+   },
+   {
+    "t": 0.44835718,
+    "c": 950.97279,
+    "h": 155.80988
+   },
+   {
+    "t": 0.26850871,
+    "c": 1011.98729,
+    "h": 164.50941
+   },
+   {
+    "t": 0.53616391,
+    "c": 1241.30449,
+    "h": 153.93219
+   },
+   {
+    "t": 0.34221454,
+    "c": 1222.75475,
+    "h": 163.16323
+   }
+  ]
+ }
+]
