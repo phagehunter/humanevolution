@@ -3,8 +3,8 @@
  "version": "2026-10-14",
  "units": {
   "time": "million years ago (Ma)",
-  "cranial_cc": "cubic centimetres",
-  "height_cm": "centimetres"
+  "cranial_cc": "cubic centimeters",
+  "height_cm": "centimeters"
  },
  "notes": [
   "Numeric fields are literature values; each species lists the sources used.",

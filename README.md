@@ -27,7 +27,7 @@ The quantitative values (time ranges, cranial capacities, heights, discovery yea
 
 Each species in `data/species.json` lists which of those it relies on, and carries a short note explaining each value. A line-by-line table of old and new values with sources is in the working notes that accompanied the rebuild.
 
-The qualitative trait descriptors (the grid and the anatomy block in each profile) are carried over from a small Kaggle teaching dataset, "Biological Data of Human Ancestors" by santiago123678. They are categorical summaries, not measurements, and they are labelled as such on the page.
+The qualitative trait descriptors (the grid and the anatomy block in each profile) are carried over from a small Kaggle teaching dataset, "Biological Data of Human Ancestors" by santiago123678. They are categorical summaries, not measurements, and they are labeled as such on the page.
 
 The species list is also the Kaggle list. Twenty-four is not a verdict on how many hominin species existed. *Homo georgicus* is usually placed within *Homo erectus* and *Homo rhodesiensis* within *Homo heidelbergensis*, while *Ardipithecus kadabba*, *Kenyanthropus platyops*, *Homo luzonensis* and the Denisovans are missing. The page says so, and each profile notes where its name stands.
 
@@ -72,8 +72,8 @@ and visit http://localhost:8000/. No dependencies beyond Python 3.
 
 Each species entry has `time`, `cranial_cc` and `height_cm` blocks with `min`, `max`, `mean` and a `note`, plus `found`, `named`, `type_site`, `status` and a `sources` list that refers to keys in the top-level `sources` object. Add a source there first, then cite it. A value that is unknown should be `null`, not a guess; the page renders a dash and the chart leaves the species out.
 
-## Licence
+## License
 
-Code is released under the MIT Licence. The compiled dataset in `data/species.json` is released under CC BY 4.0; please cite the underlying sources listed on the page when reusing it.
+Code is released under the MIT License. The compiled dataset in `data/species.json` is released under CC BY 4.0; please cite the underlying sources listed on the page when reusing it.
 
 Made by [Curtis Hoffmann](https://curtishoffmann.com/).
