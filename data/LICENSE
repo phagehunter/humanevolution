@@ -1,0 +1,9 @@
+The compiled dataset in this folder (species.json) is released under the
+Creative Commons Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Twenty-Four Cousins species dataset, Curtis Hoffmann,
+https://curtishoffmann.com/humanevolution/". The values are compiled from the
+sources listed inside the file and on the page; please cite those sources too.
+
+The files under legacy/ keep the license of their original Kaggle dataset.

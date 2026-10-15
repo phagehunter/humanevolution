@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Twenty-Four Cousins · A field guide to the human family</title>
+<meta name="description" content="An interactive field guide to 24 hominin species, from Sahelanthropus to Homo sapiens: a seven-million-year time slider, a species timeline, brain-size and trait comparisons, with every date and measurement sourced to the literature.">
+<meta name="author" content="Curtis Hoffmann">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#000b18">
+<meta name="color-scheme" content="dark">
+<link rel="canonical" href="https://curtishoffmann.com/humanevolution/">
+
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Curtis Hoffmann">
+<meta property="og:title" content="Twenty-Four Cousins — a field guide to the human family">
+<meta property="og:description" content="Twenty-four hominin species, seven million years, one survivor. Drag through deep time, compare brains and traits, and open a sourced profile for every species.">
+<meta property="og:url" content="https://curtishoffmann.com/humanevolution/">
+<meta property="og:image" content="https://curtishoffmann.com/humanevolution/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Twenty-Four Cousins: a timeline of 24 hominin species on a midnight background">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Twenty-Four Cousins — a field guide to the human family">
+<meta name="twitter:description" content="Twenty-four hominin species, seven million years, one survivor. An interactive, sourced guide.">
+<meta name="twitter:image" content="https://curtishoffmann.com/humanevolution/assets/og-image.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css?v={{ASSET_VERSION}}">
+
+<script type="application/ld+json">
+{{JSON_LD}}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="scrim" id="scrim"></div>
+
+<nav class="nav" id="nav" aria-label="Page sections">
+  <div class="nav-inner">
+    <a class="nav-title" href="https://curtishoffmann.com/humanevolution/"><span class="mark" aria-hidden="true"></span><span>Twenty-Four Cousins</span></a>
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Open section menu" aria-expanded="false" aria-controls="nav-links"><span></span><span></span><span></span></button>
+    <div class="nav-links" id="nav-links">
+      <a class="nav-link" href="#scrub" data-target="scrub">Time slider</a>
+      <a class="nav-link" href="#timeline" data-target="timeline">Timeline</a>
+      <a class="nav-link" href="#brains" data-target="brains">Brains</a>
+      <a class="nav-link" href="#traits" data-target="traits">Traits</a>
+      <a class="nav-link" href="#compare" data-target="compare">Compare</a>
+      <a class="nav-link" href="#species" data-target="species">Species</a>
+      <a class="nav-link" href="#sources" data-target="sources">Sources</a>
+    </div>
+    <a class="nav-home" href="https://curtishoffmann.com/" title="Curtis Hoffmann — home">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-8 9 8v9a2 2 0 0 1-2 2h-4v-7H9v7H5a2 2 0 0 1-2-2v-9z"/></svg>
+      <span class="lbl">Home</span>
+    </a>
+  </div>
+</nav>
+
+<main id="main">
+<header class="hero wrap">
+  <div class="eyebrow">A field guide to the human family</div>
+  <h1>Twenty-four<br><em>cousins</em>.</h1>
+  <p class="sub">And only one of them is still walking.</p>
+  <p class="lead">
+    For roughly seven million years Earth has hosted a family of upright apes. This guide follows
+    <strong>twenty-four named species</strong>, from Toumaï in the Chadian desert to the people reading this page.
+    Drag through deep time, watch brains grow, compare any two cousins, and open a profile for each species.
+    Every date and measurement comes from the published literature, with the source named on the profile.
+  </p>
+  <div class="stats" role="list">
+    <div class="stat" role="listitem"><div class="num">24</div><div class="lbl">named species</div></div>
+    <div class="stat" role="listitem"><div class="num">7</div><div class="lbl">million years</div></div>
+    <div class="stat" role="listitem"><div class="num">{{N_SOURCES}}</div><div class="lbl">sources cited</div></div>
+    <div class="stat" role="listitem"><div class="num">1</div><div class="lbl">survivor</div></div>
+  </div>
+  <div class="hero-cta">
+    <a class="btn primary" href="#scrub">Start with the time slider</a>
+    <a class="btn" href="#species">Browse the species</a>
+  </div>
+</header>
+
+<!-- 01 · Time slider -->
+<section id="scrub" class="block wrap">
+  <div class="section-label"><span class="num">01</span><span>The deep clock</span><span class="rule"></span></div>
+  <h2>Drag through <em>seven million years</em> and see who was alive.</h2>
+  <p class="deck">At most moments in deep time several kinds of human shared the planet. Lit cells are the species alive at the chosen moment; the thin bar under each shows how far through its known span it is. Tap any cell for the full profile.</p>
+  <div class="card scrubber">
+    <div class="readout">
+      <div>
+        <div class="big" id="scrub-time" aria-live="polite">1.80</div>
+        <div class="unit" id="scrub-unit">million years ago</div>
+      </div>
+      <div>
+        <div class="epoch" id="scrub-epoch">Early Pleistocene</div>
+        <div class="alive"><b id="scrub-alive">0</b> species alive · typical brain <b id="scrub-cc">—</b> cc</div>
+        <p class="commentary" id="scrub-commentary"></p>
+      </div>
+    </div>
+    <div class="slider">
+      <label class="sr-only" for="slider">Time before present</label>
+      <input id="slider" type="range" min="0" max="1000" value="500" step="1" aria-valuemin="0" aria-valuemax="1000">
+      <div class="ticks" id="slider-ticks" aria-hidden="true"></div>
+    </div>
+    <div class="scrub-grid" id="scrub-grid"></div>
+  </div>
+  <p class="note">The slider uses a square-root time scale, so the crowded last half-million years get as much room as the first five million. Two stretches light nothing up: 5.8–4.5 million years ago (<i>Ardipithecus kadabba</i> lived then but is not one of the twenty-four) and the gaps between single-horizon species.</p>
+</section>
+
+<!-- 02 · Timeline -->
+<section id="timeline" class="block wrap">
+  <div class="section-label"><span class="num">02</span><span>The bone-yard</span><span class="rule"></span></div>
+  <h2>Each species’ <em>tenure on Earth</em>, oldest at the top.</h2>
+  <p class="deck">Each bar is the span of time a species is known from the fossil record, as published by the Smithsonian Human Origins Program and the primary literature. Dashed bars mark species known from a single dated horizon. Select a row to open its profile.</p>
+  <div class="card timeline-scroll">
+    <div class="timeline">
+      <div class="tl-axis"><span></span><div class="ax" id="tl-axis"></div><span></span></div>
+      <div class="tl-grid" id="tl-grid" aria-hidden="true"></div>
+      <div id="tl-rows"></div>
+      <div class="tl-epochs"><span></span><div class="ax" id="tl-epochs"></div><span></span></div>
+    </div>
+  </div>
+  <div class="legend" aria-label="Color key">
+    <span class="item"><span class="sw" style="background:var(--c-pre)"></span>Pre-australopith</span>
+    <span class="item"><span class="sw" style="background:var(--c-australopithecus)"></span><i>Australopithecus</i></span>
+    <span class="item"><span class="sw" style="background:var(--c-paranthropus)"></span><i>Paranthropus</i></span>
+    <span class="item"><span class="sw" style="background:var(--c-homo)"></span><i>Homo</i></span>
+    <span class="item"><span class="sw" style="background:var(--c-sapiens)"></span><i>Homo sapiens</i></span>
+  </div>
+</section>
+
+<!-- 03 · Brains -->
+<section id="brains" class="block wrap">
+  <div class="section-label"><span class="num">03</span><span>The brain story</span><span class="rule"></span></div>
+  <h2>The skull <em>tripled</em> in size, but not in a straight line.</h2>
+  <p class="deck">From roughly 360 cc in Sahelanthropus to about 1,300 cc in us, and larger still in Neanderthals. The exceptions are the point: <i>Homo naledi</i> and <i>Homo floresiensis</i> kept australopith-sized brains deep into the age of big-brained humans.</p>
+  <div class="card chart-scroll" style="padding:12px 8px 4px">
+    <svg id="chart" class="chart" viewBox="0 0 960 520" role="img" aria-labelledby="chart-title chart-desc">
+      <title id="chart-title">Cranial capacity of 22 hominin species against time</title>
+      <desc id="chart-desc">Each box spans a species’ time range horizontally and its published cranial-capacity range vertically. Brain size rises from about 360 cc seven million years ago to about 1,300 to 1,500 cc in Homo sapiens and Neanderthals, with Homo naledi and Homo floresiensis as small-brained outliers in the last 335,000 years.</desc>
+    </svg>
+  </div>
+  <p class="note" id="chart-note"></p>
+  <div class="tooltip" id="tooltip" role="status" aria-live="polite"></div>
+</section>
+
+<!-- 04 · Traits -->
+<section id="traits" class="block wrap">
+  <div class="section-label"><span class="num">04</span><span>Traits, side by side</span><span class="rule"></span></div>
+  <h2>From <em>ape-like</em> to <em>modern</em>, one trait at a time.</h2>
+  <p class="deck">Rows are species, oldest first. Columns are anatomical or behavioural descriptors: bipedalism, feet, hands, jaw, brow ridge, tools. Cells warm from rust to gold as a trait approaches the modern human form. These descriptors come from a teaching dataset and are categorical summaries, not measurements; see <a href="#sources">Sources</a>.</p>
+  <div class="card table-scroll">
+    <table class="traits" id="trait-table">
+      <caption class="sr-only">Qualitative trait descriptors for 24 hominin species</caption>
+      <thead><tr><th scope="col">Species</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="trait-scale" aria-hidden="true"><span>ape-like</span><span class="g"></span><span>modern</span></div>
+</section>
+
+<!-- 05 · Compare -->
+<section id="compare" class="block wrap">
+  <div class="section-label"><span class="num">05</span><span>Two cousins</span><span class="rule"></span></div>
+  <h2>Pick two <em>relatives</em> and set them side by side.</h2>
+  <p class="deck">The default pairing is the obvious one: us and our closest extinct kin. Change either menu to summon any two of the twenty-four. An equals sign marks a shared descriptor; a not-equals sign marks a difference.</p>
+  <div class="compare">
+    <div class="card cmp">
+      <label for="cmp-a">First cousin</label>
+      <div class="select"><select id="cmp-a"></select></div>
+      <div class="when" id="cmp-a-when"></div>
+      <div class="silhouette" id="cmp-a-sil" aria-hidden="true"></div>
+      <p class="fact" id="cmp-a-fact"></p>
+      <ul class="cmp-list" id="cmp-a-traits"></ul>
+      <div class="panel-actions"><button class="btn small" type="button" id="cmp-a-open">Open profile</button></div>
+    </div>
+    <div class="card cmp">
+      <label for="cmp-b">Second cousin</label>
+      <div class="select"><select id="cmp-b"></select></div>
+      <div class="when" id="cmp-b-when"></div>
+      <div class="silhouette" id="cmp-b-sil" aria-hidden="true"></div>
+      <p class="fact" id="cmp-b-fact"></p>
+      <ul class="cmp-list" id="cmp-b-traits"></ul>
+      <div class="panel-actions"><button class="btn small" type="button" id="cmp-b-open">Open profile</button></div>
+    </div>
+  </div>
+  <p class="cmp-key"><button class="btn small" type="button" id="cmp-swap">Swap sides</button> &nbsp; Skull and body figures are scaled to typical cranial capacity and stature.</p>
+</section>
+
+<!-- 06 · Species index -->
+<section id="species" class="block wrap">
+  <div class="section-label"><span class="num">06</span><span>The twenty-four</span><span class="rule"></span></div>
+  <h2>Every <em>cousin</em>, in order of appearance.</h2>
+  <p class="deck">Twenty-four is the count in the dataset this guide grew from, not a verdict. Several names here are folded into others by many researchers (<i>Homo georgicus</i> into <i>H. erectus</i>, <i>H. rhodesiensis</i> into <i>H. heidelbergensis</i>), and several accepted species are missing (<i>Ardipithecus kadabba</i>, <i>Kenyanthropus platyops</i>, <i>Homo luzonensis</i>, the Denisovans). Each card says where its name stands.</p>
+  <div class="index">
+{{SPECIES_INDEX}}
+  </div>
+</section>
+
+<!-- 07 · Sources -->
+<section id="sources" class="block wrap sources">
+  <div class="section-label"><span class="num">07</span><span>Sources and method</span><span class="rule"></span></div>
+  <h2>Where the <em>numbers</em> come from.</h2>
+  <p class="deck">Dates, cranial capacities, stature and discovery details were compiled on 14 October 2026 from the sources below. The full dataset, with a note on every value, is published as <a href="data/species.json">data/species.json</a>; a line-by-line provenance table is in the <a href="https://github.com/phagehunter/humanevolution">repository</a>.</p>
+  <ol>
+{{SOURCES_LIST}}
+  </ol>
+  <div class="method">
+    <div class="card">
+      <h3>What changed, and why</h3>
+      <p>An earlier version of this page drew its bars and dots from a 12,000-row file in which every species had exactly 500 synthetic records, a one-million-year span and a 300 cc brain range. Those numbers were a random expansion of a small teaching dataset, not fossil measurements, and they put <i>Homo sapiens</i> a million years in the past.</p>
+      <p>This version keeps the teaching dataset’s qualitative descriptors (the trait grid) because they are reasonable summaries, and replaces every quantitative value with a sourced literature figure.</p>
+    </div>
+    <div class="card">
+      <h3>Reading the charts</h3>
+      <p>Time axes use a square-root scale: equal distance means equal <em>square root</em> of time, which spreads out the last few hundred thousand years without hiding the first six million.</p>
+      <p>“Typical” cranial capacity is a species mean where one has been published, otherwise the best-preserved cranium. Ranges are the spread of adult specimens cited by the sources, and single-specimen species are marked as such.</p>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap row">
+    <div><em>Twenty-Four Cousins</em> is made by <a href="https://curtishoffmann.com/">Curtis Hoffmann</a>. Code is MIT-licensed; the compiled dataset is CC BY 4.0. <a href="https://github.com/phagehunter/humanevolution">Source on GitHub</a>.</div>
+    <div>Data compiled {{BUILD_DATE}}</div>
+  </div>
+</footer>
+
+<!-- Species profile panel -->
+<aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="p-name" aria-hidden="true">
+  <div class="panel-head">
+    <button class="panel-close" id="panel-close" type="button" aria-label="Close profile">×</button>
+    <div class="nick" id="p-nick"></div>
+    <h3 id="p-name">—</h3>
+  </div>
+  <div class="panel-body">
+    <p class="quote" id="p-fact"></p>
+    <div class="kpis">
+      <div class="k"><div class="lbl">Lived</div><div class="val" id="p-time">—</div><div class="sub" id="p-time-sub"></div></div>
+      <div class="k"><div class="lbl">Brain</div><div class="val" id="p-cc">—</div><div class="sub" id="p-cc-sub"></div></div>
+      <div class="k"><div class="lbl">Height</div><div class="val" id="p-h">—</div><div class="sub" id="p-h-sub"></div></div>
+    </div>
+    <h4>Discovery and range</h4>
+    <div class="attrs" id="p-disc"></div>
+    <h4>Notes on the numbers</h4>
+    <div class="notes" id="p-notes"></div>
+    <h4>Anatomy (dataset descriptors)</h4>
+    <div class="attrs" id="p-anat"></div>
+    <h4>Behavior and culture (dataset descriptors)</h4>
+    <div class="attrs" id="p-beh"></div>
+    <h4>Sources</h4>
+    <p class="src" id="p-src"></p>
+    <div class="panel-actions">
+      <button class="btn small" type="button" id="p-copy">Copy link</button>
+      <a class="btn small" id="p-index" href="#species">Show in index</a>
+      <a class="sr-only" id="p-link" href="#species">Permanent link to this species</a>
+    </div>
+  </div>
+</aside>
+
+<script type="application/json" id="species-data">{{SPECIES_JSON}}</script>
+<script src="assets/app.js?v={{ASSET_VERSION}}"></script>
+</body>
+</html>
