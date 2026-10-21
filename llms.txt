@@ -1,0 +1,30 @@
+# Twenty-Four Cousins
+
+> A field guide to the human family in one page, by Curtis Hoffmann: twenty-four hominin species across seven million years, with a time slider, a species timeline, a brain-size chart, a trait grid, a side-by-side comparison tool, and a sourced profile for every species.
+
+Site: https://curtishoffmann.com/humanevolution/
+Source and data (MIT code, CC BY 4.0 dataset): https://github.com/phagehunter/humanevolution
+
+## Main sections (one page, anchored)
+
+- Time slider, seven million years to the present: https://curtishoffmann.com/humanevolution/#scrub
+- Timeline, every species as a bar, oldest first: https://curtishoffmann.com/humanevolution/#timeline
+- Brain size against time for the 22 species with a measurable skull: https://curtishoffmann.com/humanevolution/#brains
+- Trait grid (bipedalism, feet, hands, hip, posture, jaw, brow ridge, prognathism, diet, tools): https://curtishoffmann.com/humanevolution/#traits
+- Compare any two species: https://curtishoffmann.com/humanevolution/#compare
+- Species profiles, each with a permanent link, for example https://curtishoffmann.com/humanevolution/#homo-naledi : https://curtishoffmann.com/humanevolution/#species
+- Where the numbers come from: https://curtishoffmann.com/humanevolution/#sources
+
+## Data
+
+- Dataset: `data/species.json` in the repository, 24 species with time range, cranial capacity, stature, discovery year and site, type site, naming status, and a note and source for each value. Compiled 14 October 2026.
+- Quantitative values: Smithsonian Human Origins Program species pages; Australian Museum human-evolution pages; primary papers where those are silent (Lebatard et al. 2008, Ferring et al. 2011, Lordkipanidze et al. 2007 and 2013, Grün et al. 2020).
+- Qualitative trait descriptors and the species list: the Kaggle teaching dataset "Biological Data of Human Ancestors" (santiago123678). They are categorical summaries, not measurements.
+- Caveat: twenty-four is the Kaggle list, not a verdict on how many hominin species existed. Homo georgicus and Homo rhodesiensis are often folded into Homo erectus and Homo heidelbergensis; Ardipithecus kadabba, Kenyanthropus platyops, Homo luzonensis and the Denisovans are absent.
+
+## License and contact
+
+- Code: MIT License. Dataset: CC BY 4.0; cite the underlying sources listed on the page when reusing it.
+- Author: Curtis Hoffmann, https://curtishoffmann.com/
+- Contact and issues: https://github.com/phagehunter/humanevolution/issues
+- Sitemap: https://curtishoffmann.com/humanevolution/sitemap.xml
