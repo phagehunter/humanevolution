@@ -106,13 +106,24 @@ def json_ld():
     return json.dumps(graph, indent=1, ensure_ascii=False)
 
 
+def asset_version():
+    """Short hash of the stylesheet and script, so a change to either busts browser caches."""
+    import hashlib
+    h = hashlib.sha256()
+    for f in ("styles.css", "app.js"):
+        fp = ROOT / "assets" / f
+        if fp.exists():
+            h.update(fp.read_bytes())
+    return h.hexdigest()[:10]
+
+
 def main():
     page = (
         TEMPLATE.replace("{{SPECIES_INDEX}}", species_cards())
         .replace("{{SOURCES_LIST}}", sources_list())
         .replace("{{JSON_LD}}", json_ld())
         .replace("{{N_SOURCES}}", str(len(DATA["sources"])))
-        .replace("{{ASSET_VERSION}}", DATA["version"].replace("-", ""))
+        .replace("{{ASSET_VERSION}}", asset_version())
         .replace("{{BUILD_DATE}}", datetime.date.fromisoformat(DATA["version"]).strftime("%-d %B %Y"))
         .replace("{{SPECIES_JSON}}", json.dumps(DATA, separators=(",", ":"), ensure_ascii=False).replace("</", "<\\/"))
     )
