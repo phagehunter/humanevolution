@@ -50,7 +50,7 @@
     return 'Holocene';
   }
   function commentaryOf(t) {
-    if (t > 6.3) return 'The deep dawn. Toumaï, the Sahelanthropus skull from Chad, is the oldest candidate for an upright ape.';
+    if (t > 6.3) return 'Toumaï, the Sahelanthropus skull from Chad, is the oldest candidate for an upright ape.';
     if (t > 5.8) return 'Orrorin in the Tugen Hills of Kenya: a thigh bone built for walking, arms still built for trees.';
     if (t > 4.5) return 'A quiet stretch in this list. Ardipithecus kadabba (5.8–5.2 Ma) lived here but is not one of the twenty-four, so no cell lights up.';
     if (t > 4.2) return 'Ardi. Ardipithecus ramidus walked on two legs in a woodland, with a grasping big toe for climbing.';
@@ -61,8 +61,8 @@
     if (t > 1.5) return 'Out of Africa. The Dmanisi people are in the Caucasus by 1.8 Ma; Homo erectus and ergaster carry the Acheulean hand-axe (from 1.76 Ma).';
     if (t > 0.8) return 'Homo erectus spreads across Asia. The earliest widely accepted evidence of controlled fire is about 1 million years old.';
     if (t > 0.4) return 'Middle Pleistocene humans: Homo heidelbergensis in Europe and Africa, Homo antecessor at Atapuerca, big-game hunters with wooden spears.';
-    if (t > 0.2) return 'The crowded chapter. Around 300,000 years ago Neanderthals, Homo naledi, Kabwe-type Africans, late Homo erectus and the first Homo sapiens all exist at once. Denisovans, known mainly from DNA, are not in this list.';
-    if (t > 0.04) return 'The pruning. Homo sapiens leaves Africa for good; Neanderthals vanish about 40,000 years ago; the Hobbit holds out on Flores until about 50,000 years ago.';
+    if (t > 0.2) return 'Around 300,000 years ago Neanderthals, Homo naledi, Kabwe-type Africans, late Homo erectus and the first Homo sapiens all exist at once. Denisovans, known mainly from DNA, are not in this list.';
+    if (t > 0.04) return 'Homo sapiens leaves Africa for good, Neanderthals disappear about 40,000 years ago, and Homo floresiensis survives on Flores until about 50,000 years ago.';
     return 'Today. One human species remains, eight billion strong, carrying fragments of Neanderthal and Denisovan DNA.';
   }
 

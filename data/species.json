@@ -87,7 +87,7 @@
     "max": null,
     "note": "No limb bones securely assigned; body size probably chimpanzee-like (Smithsonian)."
    },
-   "fact": "The oldest known hominin — its skull, nicknamed Toumaï, hints at upright posture nearly 7 million years ago.",
+   "fact": "Sahelanthropus is the oldest known hominin; its skull, nicknamed Toumaï, hints at upright posture nearly 7 million years ago.",
    "status": "Widely accepted; bipedality debated.",
    "sources": [
     "SI",
@@ -146,7 +146,7 @@
     "max": null,
     "note": "Chimpanzee-sized; body mass estimated at 30–50 kg from femur and humerus (Smithsonian)."
    },
-   "fact": "Femur fragments suggest Orrorin walked upright while still climbing trees — a dual-purpose ape.",
+   "fact": "Femur fragments suggest that Orrorin walked upright while still climbing trees.",
    "status": "Widely accepted.",
    "sources": [
     "SI",
@@ -204,7 +204,7 @@
     "max": null,
     "note": "Female average 120 cm, 50 kg (Smithsonian)."
    },
-   "fact": "Ardi's foot had a grasping toe yet she walked on two legs — bipedalism evolved in forests, not savannas.",
+   "fact": "Ardi's foot had a grasping toe, yet she walked on two legs, which places the origin of bipedalism in forests rather than on savannas.",
    "status": "Widely accepted.",
    "sources": [
     "SI",
@@ -320,7 +320,7 @@
     "max": null,
     "note": "No postcranial remains."
    },
-   "fact": "Found 2,500 km west of the Rift Valley — the only australopith from central Africa.",
+   "fact": "Found 2,500 km west of the Rift Valley, it is the only australopith known from central Africa.",
    "status": "Validity disputed; many researchers assign the material to Au. afarensis.",
    "sources": [
     "LEBATARD2008",
@@ -494,7 +494,7 @@
     "max": null,
     "note": "No postcranial bones securely assigned (Smithsonian)."
    },
-   "fact": "The 'Black Skull' had the largest sagittal crest of any hominin — anchoring jaws that could crush nuts.",
+   "fact": "The 'Black Skull' had the largest sagittal crest of any hominin, which anchored the muscles of jaws that could crush nuts.",
    "status": "Widely accepted; named from the 1967 Omo mandible, the Black Skull was found in 1985.",
    "sources": [
     "SI",
@@ -552,7 +552,7 @@
     "max": null,
     "note": "Uncertain (Smithsonian)."
    },
-   "fact": "Found alongside butchered antelope bones — possibly the first known toolmaker.",
+   "fact": "Found alongside butchered antelope bones, it may be the first known toolmaker.",
    "status": "Accepted; association with butchered bones is debated.",
    "sources": [
     "SI",
@@ -610,7 +610,7 @@
     "max": 135,
     "note": "Average 100–135 cm (Smithsonian)."
    },
-   "fact": "'Handy man' — the first hominin associated with stone tools, the Oldowan industry.",
+   "fact": "Nicknamed 'Handy man', it was the first hominin associated with stone tools, the Oldowan industry.",
    "status": "Widely accepted; membership in Homo debated.",
    "sources": [
     "SI",
@@ -668,7 +668,7 @@
     "max": 137,
     "note": "Females average 124 cm, males 137 cm (Smithsonian)."
    },
-   "fact": "Nicknamed 'Nutcracker Man' for molars four times the size of ours — built to grind tough plants.",
+   "fact": "Nicknamed 'Nutcracker Man' for molars four times the size of ours, which were built to grind tough plants.",
    "status": "Widely accepted.",
    "sources": [
     "SI",
@@ -726,7 +726,7 @@
     "max": 130,
     "note": "About 1.2–1.3 m (Smithsonian, Australian Museum)."
    },
-   "fact": "A mosaic of ape and human traits — its hand could precision-grip, but its arms were still built for climbing.",
+   "fact": "It was a mosaic of ape and human traits, with a hand that could make a precision grip and arms still built for climbing.",
    "status": "Accepted; some treat it as late Au. africanus.",
    "sources": [
     "SI",
@@ -784,7 +784,7 @@
     "max": null,
     "note": "Unknown; no securely associated limb bones (Smithsonian)."
    },
-   "fact": "A larger-brained contemporary of H. habilis — early Homo was a bushy tree, not a single line.",
+   "fact": "A larger-brained contemporary of H. habilis, it is one reason early Homo is drawn as a branching bush rather than a single line.",
    "status": "Accepted by many; some lump it with H. habilis.",
    "sources": [
     "SI",
@@ -842,7 +842,7 @@
     "max": 180,
     "note": "Females about 160 cm, males about 180 cm (Australian Museum); Turkana Boy projected 1.8 m or more."
    },
-   "fact": "Modern body proportions and Acheulean handaxes — the first hominin who looked, from the neck down, like us.",
+   "fact": "With modern body proportions and Acheulean handaxes, it was the first hominin that looked like us from the neck down.",
    "status": "Often treated as early African Homo erectus (Smithsonian).",
    "sources": [
     "AM",
@@ -900,8 +900,8 @@
     "max": 185,
     "note": "Ranges 145–185 cm (Smithsonian)."
    },
-   "fact": "The longest-lived human species — nearly 2 million years across Africa and Asia, and the first to use fire.",
-   "status": "Widely accepted; the longest-lived human species.",
+   "fact": "The longest-lived human species, it lasted nearly 2 million years across Africa and Asia and was the first to use fire.",
+   "status": "Widely accepted.",
    "sources": [
     "SI",
     "AM"
@@ -958,7 +958,7 @@
     "max": 166,
     "note": "Stature 145–166 cm from Dmanisi postcrania (Lordkipanidze et al. 2007)."
    },
-   "fact": "Found at Dmanisi — the earliest hominin remains outside Africa, a small-brained pioneer.",
+   "fact": "Found at Dmanisi, these fossils of a small-brained population are the earliest hominin remains outside Africa.",
    "status": "Most researchers now classify the Dmanisi fossils as Homo erectus (H. e. georgicus).",
    "sources": [
     "FERRING2011",
@@ -1018,7 +1018,7 @@
     "max": 120,
     "note": "Females about 100 cm, males about 120 cm (Smithsonian)."
    },
-   "fact": "A robust australopith that lived alongside early Homo — and lost the evolutionary race.",
+   "fact": "A robust australopith that lived alongside early Homo, it went extinct while Homo persisted.",
    "status": "Widely accepted.",
    "sources": [
     "SI",
@@ -1076,7 +1076,7 @@
     "max": 180,
     "note": "Males about 1.6–1.8 m (Australian Museum)."
    },
-   "fact": "Europe's earliest known human — and the first to leave evidence of cannibalism.",
+   "fact": "Europe's earliest known human, it is also the first species to leave evidence of cannibalism.",
    "status": "Accepted; its place relative to H. heidelbergensis and H. sapiens is debated.",
    "sources": [
     "AM"
@@ -1133,7 +1133,7 @@
     "max": 175,
     "note": "Males average 175 cm, females 157 cm (Smithsonian)."
    },
-   "fact": "Big-brained big-game hunters — the likely ancestor of both Neanderthals and us.",
+   "fact": "These big-brained hunters of big game are the likely ancestor of both Neanderthals and modern humans.",
    "status": "Widely used; a 'wastebasket' taxon for Middle Pleistocene humans.",
    "sources": [
     "SI",
@@ -1191,7 +1191,7 @@
     "max": null,
     "note": "Associated tibia suggests a tall individual, but no reliable species figure."
    },
-   "fact": "Sometimes considered an African Heidelbergensis — a possible ancestor of modern humans.",
+   "fact": "Sometimes considered an African form of H. heidelbergensis, it is a possible ancestor of modern humans.",
    "status": "Usually folded into H. heidelbergensis; some now use H. bodoensis for the African material.",
    "sources": [
     "SI-KABWE",
@@ -1308,7 +1308,7 @@
     "max": 150,
     "note": "Approximately 1.44 m (Smithsonian); adult males about 150 cm (Australian Museum)."
    },
-   "fact": "Small-brained yet possibly buried its dead in deep cave chambers — a stunning recent discovery.",
+   "fact": "Although small-brained, it may have buried its dead in deep cave chambers.",
    "status": "Widely accepted; claims of deliberate burial are contested.",
    "sources": [
     "SI",
@@ -1366,7 +1366,7 @@
     "max": 171,
     "note": "Present-day global adult averages, roughly 159 cm (women) and 171 cm (men)."
    },
-   "fact": "Us. The only surviving human lineage out of more than two dozen — and now the most populous large mammal on Earth.",
+   "fact": "Homo sapiens is the only surviving human lineage out of more than two dozen and is now the most populous large mammal on Earth.",
    "status": "The one surviving species. 'Found' refers to the Jebel Irhoud discovery; the species was named by Linnaeus in 1758.",
    "sources": [
     "SI"
@@ -1423,7 +1423,7 @@
     "max": 106,
     "note": "106 cm, estimated from the LB1 female skeleton (Smithsonian)."
    },
-   "fact": "The 'Hobbit' — a meter-tall human that survived on Flores until perhaps 50,000 years ago.",
+   "fact": "Nicknamed the 'Hobbit', it was a meter-tall human that survived on Flores until perhaps 50,000 years ago.",
    "status": "Widely accepted as a distinct dwarfed species.",
    "sources": [
     "SI",
