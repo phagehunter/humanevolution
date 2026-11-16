@@ -1,6 +1,6 @@
 # Twenty-Four Cousins
 
-A field guide to the human family, in one page: twenty-four hominin species, seven million years, one survivor.
+A one-page field guide to twenty-four hominin species spanning seven million years, of which only *Homo sapiens* survives.
 
 Live at **https://curtishoffmann.com/humanevolution/**
 
